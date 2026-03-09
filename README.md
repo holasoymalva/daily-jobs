@@ -22,12 +22,12 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Desarrollador/a Full-Stack Junior](https://www.getonbrd.com/jobs/desarrollador-a-full-stack-junior-wizz-life-santiago)** en GetOnBoard Company _(2026-02-24)_ - GetOnBoard
 - **[DevOps Engineer Junior](https://www.getonbrd.com/jobs/devops-engineer-junior-healthatom-santiago)** en GetOnBoard Company _(2026-02-23)_ - GetOnBoard
 - **[Desarrollador Junior IA para Incubadora de Software](https://www.getonbrd.com/jobs/desarrollador-junior-ia-para-incubadora-de-software-construckit-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
-- **[Diseñador/a Gráfico Digital Junior](https://www.getonbrd.com/jobs/disenador-a-grafico-digital-junior-bh-studios-remote)** en GetOnBoard Company _(2026-03-02)_ - GetOnBoard
+- **[Diseñador/a Gráfico Digital Junior](https://www.getonbrd.com/jobs/disenador-a-grafico-digital-junior-bh-studios-remote)** en GetOnBoard Company _(2026-03-03)_ - GetOnBoard
 - **[Front-end UI Developer (Junior / Mid)](https://www.getonbrd.com/jobs/frontend-ui-developer-junior-mid-i2b-technologies-remote)** en GetOnBoard Company _(2026-02-19)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
 - **[Junior Full-Stack Engineer (Ruby on Rails)](https://www.getonbrd.com/jobs/junior-full-stack-engineer-ruby-on-rails-autoraptor-remote)** en GetOnBoard Company _(2026-01-08)_ - GetOnBoard
 - **[Scripter – Java (Web Junior) con Inglés Avanzado](https://www.getonbrd.com/jobs/scripter-analyst-ocr-web-con-ingles-avanzado-remoto-i2b-technologies-remote)** en GetOnBoard Company _(2025-12-01)_ - GetOnBoard
-- **[Junior Automation Developer (N8n, APIs, JS)](https://www.getonbrd.com/jobs/jjunior-automation-developer-n8n-apis-js-lumago-info-admyo-s-a-de-c-v-remote)** en GetOnBoard Company _(2025-11-28)_ - GetOnBoard
+- **[Junior Automation Developer (N8n, APIs, JS)](https://www.getonbrd.com/jobs/jjunior-automation-developer-n8n-apis-js-lumago-info-admyo-s-a-de-c-v-remote)** en GetOnBoard Company _(2025-11-29)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 
 ### Backend
@@ -50,7 +50,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 - **[Treasury & Accounting Analyst Junior](https://www.getonbrd.com/jobs/treasury-accounting-analyst-junior-wherex-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
 - **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
-- **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-09)_ - GetOnBoard
+- **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
 
