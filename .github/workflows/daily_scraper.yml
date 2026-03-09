@@ -1,0 +1,36 @@
+name: Daily Junior Jobs Scraper
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # Ejecuta todos los días a las 12:00 UTC
+  workflow_dispatch: # Permite ejecutar el Action manualmente si es necesario
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Requerido para hacer git push
+      
+    steps:
+      - name: 📥 Checkout del repositorio
+        uses: actions/checkout@v3
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: 📦 Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: 🚀 Ejecutar Scraper
+        run: python src/main.py
+
+      - name: 💾 Commit y Push de los cambios
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          # Si no hay diff, el comando se salta el commit y no falla
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Actualización automática de vacantes junior" && git push)

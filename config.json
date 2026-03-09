@@ -1,0 +1,25 @@
+{
+  "keywords": [
+    "junior",
+    "trainee",
+    "sin experiencia",
+    "0 años",
+    "0-1 años",
+    "0-2 años",
+    "primer empleo",
+    "entry level"
+  ],
+  "categories": {
+    "Frontend": ["react", "vue", "angular", "javascript", "typescript", "frontend", "front-end", "css", "html"],
+    "Backend": ["python", "java", "node", "nodejs", "express", "django", "flask", "spring", "ruby", "php", "backend", "back-end", "c#", ".net", "go", "golang"],
+    "Mobile": ["android", "ios", "kotlin", "swift", "flutter", "react native", "mobile"],
+    "Data": ["data scientist", "data engineer", "data analyst", "machine learning", "sql", "pandas", "spark", "data"],
+    "QA": ["qa", "testing", "tester", "cypress", "selenium", "automatizacion", "automation"]
+  },
+  "sources": [
+    {
+      "name": "GetOnBoard",
+      "api_url": "https://www.getonbrd.com/api/v0/search/jobs?query=junior"
+    }
+  ]
+}
