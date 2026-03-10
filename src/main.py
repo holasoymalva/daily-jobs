@@ -51,9 +51,13 @@ def main():
     total_valid = sum(len(v) for v in grouped_jobs.values())
     print(f"Total de vacantes categorizadas válidas (Junior): {total_valid}")
     
+    # 2.5. Generar Estadísticas y Guardar JSON
+    from src.stats import generate_and_save_stats
+    top_vacancies, top_techs = generate_and_save_stats(grouped_jobs, config_path, BASE_DIR)
+    
     # 3. Actualización del README
     readme_path = os.path.join(BASE_DIR, "README.md")
-    update_readme(grouped_jobs, readme_path=readme_path)
+    update_readme(grouped_jobs, top_vacancies, top_techs, readme_path=readme_path)
     print("✅ README.md actualizado con éxito.")
 
 if __name__ == "__main__":

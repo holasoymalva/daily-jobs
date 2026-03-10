@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2026-03-09",
+    "total_jobs": 43,
+    "top_vacancies": [
+      {
+        "title": "Analista de Seguridad de la Información Junior",
+        "count": 2
+      },
+      {
+        "title": "Ejecutivo de Soporte Trainee",
+        "count": 2
+      },
+      {
+        "title": "Technical Project Manager",
+        "count": 1
+      },
+      {
+        "title": "Desarrollador Junior IA para Incubadora de Software",
+        "count": 1
+      },
+      {
+        "title": "DevOps Engineer Junior",
+        "count": 1
+      },
+      {
+        "title": "Front-end UI Developer (Junior / Mid)",
+        "count": 1
+      },
+      {
+        "title": "Ruby on Rails Developer (Junior / Semi Senior)",
+        "count": 1
+      },
+      {
+        "title": "Junior Full-Stack Engineer (Ruby on Rails)",
+        "count": 1
+      },
+      {
+        "title": "Junior Automation Developer (N8n, APIs, JS)",
+        "count": 1
+      },
+      {
+        "title": "Desarrollador Angular",
+        "count": 1
+      }
+    ],
+    "top_technologies": [
+      {
+        "tech": "ruby",
+        "count": 2
+      },
+      {
+        "tech": "front-end",
+        "count": 1
+      },
+      {
+        "tech": "automation",
+        "count": 1
+      },
+      {
+        "tech": "angular",
+        "count": 1
+      },
+      {
+        "tech": "react",
+        "count": 1
+      },
+      {
+        "tech": "data engineer",
+        "count": 1
+      },
+      {
+        "tech": "data",
+        "count": 1
+      },
+      {
+        "tech": "back-end",
+        "count": 1
+      }
+    ]
+  }
+]

@@ -16,6 +16,16 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 ## 💼 Ofertas de Empleo (Actualizadas Diariamente)
 
 <!-- JOBS_START -->
+### 📊 Análisis del Mercado (Top 5)
+
+| 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
+|:---|:---|
+| Analista de Seguridad de la Información Junior (2) | Ruby (2) |
+| Ejecutivo de Soporte Trainee (2) | Front-end (1) |
+| Technical Project Manager (1) | Automation (1) |
+| Desarrollador Junior IA para Incubadora de Software (1) | Angular (1) |
+| DevOps Engineer Junior (1) | React (1) |
+
 ### Frontend
 
 - **[Technical Project Manager](https://www.getonbrd.com/jobs/technical-project-manager-waystone-software-altitude-remote)** en GetOnBoard Company _(2026-03-02)_ - GetOnBoard
