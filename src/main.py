@@ -7,6 +7,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, BASE_DIR)
 
 from src.scrapers.getonboard_scraper import GetOnBoardScraper
+from src.scrapers.remotive_scraper import RemotiveScraper
+from src.scrapers.arbeitnow_scraper import ArbeitnowScraper
+from src.scrapers.remoteok_scraper import RemoteOkScraper
 from src.processor import JobProcessor
 from src.readme_updater import update_readme
 
@@ -25,11 +28,19 @@ def main():
         url = source.get("api_url")
         
         print(f"Obteniendo datos de {name}...")
+        scraper = None
         if name == "GetOnBoard":
             scraper = GetOnBoardScraper(name=name, url=url)
+        elif name == "Remotive":
+            scraper = RemotiveScraper(name=name, url=url)
+        elif name == "Arbeitnow":
+            scraper = ArbeitnowScraper(name=name, url=url)
+        elif name == "RemoteOK":
+            scraper = RemoteOkScraper(name=name, url=url)
+            
+        if scraper:
             jobs = scraper.fetch_jobs()
             all_jobs.extend(jobs)
-        # Aquí se agregarían nuevos 'if' o un diccionario de clases cuando se escalen las fuentes
         
     print(f"Total de vacantes obtenidas en crudo: {len(all_jobs)}")
     

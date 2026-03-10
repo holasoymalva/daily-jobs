@@ -20,6 +20,18 @@
     {
       "name": "GetOnBoard",
       "api_url": "https://www.getonbrd.com/api/v0/search/jobs?query=junior"
+    },
+    {
+      "name": "Remotive",
+      "api_url": "https://remotive.com/api/remote-jobs?limit=250"
+    },
+    {
+      "name": "Arbeitnow",
+      "api_url": "https://www.arbeitnow.com/api/job-board-api?page=1"
+    },
+    {
+      "name": "RemoteOK",
+      "api_url": "https://remoteok.com/api"
     }
   ]
 }
