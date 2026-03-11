@@ -21,17 +21,16 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
 | Analista de Seguridad de la Información Junior (2) | Ruby (2) |
-| Ejecutivo de Soporte Trainee (2) | Data (2) |
-| Technical Project Manager (1) | Front-end (1) |
-| Desarrollador Junior IA para Incubadora de Software (1) | Automation (1) |
-| DevOps Engineer Junior (1) | Angular (1) |
+| Ejecutivo de Soporte Trainee (2) | Automation (1) |
+| Technical Project Manager (1) | Angular (1) |
+| Desarrollador Junior IA para Incubadora de Software (1) | React (1) |
+| DevOps Engineer Junior (1) | Data (1) |
 
 ### Frontend
 
 - **[Technical Project Manager](https://www.getonbrd.com/jobs/technical-project-manager-waystone-software-altitude-remote)** en GetOnBoard Company _(2026-03-02)_ - GetOnBoard
 - **[Desarrollador Junior IA para Incubadora de Software](https://www.getonbrd.com/jobs/desarrollador-junior-ia-para-incubadora-de-software-construckit-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
 - **[DevOps Engineer Junior](https://www.getonbrd.com/jobs/devops-engineer-junior-healthatom-santiago)** en GetOnBoard Company _(2026-02-23)_ - GetOnBoard
-- **[Front-end UI Developer (Junior / Mid)](https://www.getonbrd.com/jobs/frontend-ui-developer-junior-mid-i2b-technologies-remote)** en GetOnBoard Company _(2026-02-19)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
 - **[Junior Full-Stack Engineer (Ruby on Rails)](https://www.getonbrd.com/jobs/junior-full-stack-engineer-ruby-on-rails-autoraptor-remote)** en GetOnBoard Company _(2026-01-08)_ - GetOnBoard
 - **[Junior Automation Developer (N8n, APIs, JS)](https://www.getonbrd.com/jobs/jjunior-automation-developer-n8n-apis-js-lumago-info-admyo-s-a-de-c-v-remote)** en GetOnBoard Company _(2025-11-29)_ - GetOnBoard
@@ -55,19 +54,14 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Trainee Industrial](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-agrosuper-rancagua)** en GetOnBoard Company _(2025-12-29)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
-- **[Junior Growth Data Analyst (m/w/d)](https://www.arbeitnow.com/jobs/companies/pflegecampus21-gmbh/junior-growth-data-analyst-berlin-55770)** en Pflegecampus21 GmbH _(2026-03-10)_ - Arbeitnow
 - **[Jr Social Media Manager](https://remoteOK.com/remote-jobs/remote-jr-social-media-manager-keywords-studios-1130655)** en Keywords Studios _(2026-03-06)_ - RemoteOK
 - **[Cloud Architect](https://remoteOK.com/remote-jobs/remote-cloud-architect-accenture-federal-services-1130620)** en Accenture Federal Services _(2026-03-03)_ - RemoteOK
 
 ### Mobile
 
-- **[Junior Ticketing Marketing Manager (d/w/m) I DACH](https://www.arbeitnow.com/jobs/companies/hyrox-world-gmbh/junior-ticketing-marketing-manager-i-dach-hamburg-356221)** en HYROX World GmbH _(2026-03-10)_ - Arbeitnow
+- **[Junior Legal Counsel, Employment Law](https://www.arbeitnow.com/jobs/companies/sumup/junior-legal-counsel-employment-law-berlin-358295)** en SumUp _(2026-03-11)_ - Arbeitnow
 - **[Crypto Market Operations Trainee](https://remoteOK.com/remote-jobs/remote-crypto-market-operations-trainee-begini-1130604)** en Begini _(2026-03-03)_ - RemoteOK
 - **[Junior Live Ops Game Designer](https://remoteOK.com/remote-jobs/remote-junior-live-ops-game-designer-a-thinking-ape-1130577)** en A Thinking Ape _(2026-02-28)_ - RemoteOK
-
-### QA
-
-- **[Head of Technology & AI (m/w/d)](https://www.arbeitnow.com/jobs/companies/webmatch-gmbh/head-of-technology-ai-cologne-63724)** en Webmatch GmbH _(2026-03-09)_ - Arbeitnow
 
 ### Other
 
@@ -78,7 +72,11 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
-- **[Junior Performance Marketing Manager (w/m/d) in München](https://www.arbeitnow.com/jobs/companies/pynema/junior-performance-marketing-manager-in-munchen-munich-456498)** en PYNEMA _(2026-03-10)_ - Arbeitnow
+- **[Team Lead Accounting | Scaling Phase](https://www.arbeitnow.com/jobs/companies/matera-gmbh/team-lead-accounting-scaling-phase-berlin-202222)** en Matera GmbH _(2026-03-11)_ - Arbeitnow
+- **[Teamleitung Buchhaltung | Wachstumsphase](https://www.arbeitnow.com/jobs/companies/matera-gmbh/teamleitung-buchhaltung-wachstumsphase-berlin-162513)** en Matera GmbH _(2026-03-11)_ - Arbeitnow
+- **[(Junior) Grafikdesigner (m/w/d) .](https://www.arbeitnow.com/jobs/companies/safenow/junior-grafikdesigner-munich-351864)** en SafeNow _(2026-03-11)_ - Arbeitnow
+- **[Junior Performance Marketing Manager (m/w/d) | Remote | Werkstudent / Teilzeit](https://www.arbeitnow.com/jobs/companies/smartkundigen-ohg/junior-performance-marketing-manager-remote-werkstudent-teilzeit-neuss-289200)** en smartkündigen OHG _(2026-03-11)_ - Arbeitnow
+- **[Junior Social Ads Manager (m/w/d) | Remote | Werkstudent / Teilzeit](https://www.arbeitnow.com/jobs/companies/smartkundigen-ohg/junior-social-ads-manager-remote-werkstudent-teilzeit-neuss-279288)** en smartkündigen OHG _(2026-03-11)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
