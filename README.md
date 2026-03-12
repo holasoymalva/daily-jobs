@@ -20,11 +20,11 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Analista de Seguridad de la Información Junior (2) | Ruby (2) |
-| Ejecutivo de Soporte Trainee (2) | Automation (1) |
-| Technical Project Manager (1) | Angular (1) |
-| Desarrollador Junior IA para Incubadora de Software (1) | React (1) |
-| DevOps Engineer Junior (1) | Data (1) |
+| Analista de Seguridad de la Información Junior (2) | Data (3) |
+| Ejecutivo de Soporte Trainee (2) | Ruby (2) |
+| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Data engineer (2) |
+| Technical Project Manager (1) | Automation (1) |
+| Desarrollador Junior IA para Incubadora de Software (1) | Angular (1) |
 
 ### Frontend
 
@@ -36,13 +36,15 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Junior Automation Developer (N8n, APIs, JS)](https://www.getonbrd.com/jobs/jjunior-automation-developer-n8n-apis-js-lumago-info-admyo-s-a-de-c-v-remote)** en GetOnBoard Company _(2025-11-29)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Shopify Engineer](https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643)** en Nebulab _(2026-03-03)_ - Remotive
+- **[GROUND DATA SYSTEMS JUNIOR ENGINEER – EPS-SG](https://www.arbeitnow.com/jobs/companies/visionspace-group/ground-data-systems-junior-engineer-eps-sg-darmstadt-473478)** en VisionSpace Group _(2026-03-12)_ - Arbeitnow
 - **[Senior Software Engineer React](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-react-creative-chaos-1130645)** en Creative Chaos _(2026-03-05)_ - RemoteOK
 
 ### Backend
 
+- **[Data Engineer (Junior o Mid)](https://www.getonbrd.com/jobs/data-engineer-junior-o-mid-lisit-remote)** en GetOnBoard Company _(2026-03-11)_ - GetOnBoard
 - **[Digital Quality Lead](https://www.getonbrd.com/jobs/digital-quality-lead-signant-health-remote)** en GetOnBoard Company _(2026-03-03)_ - GetOnBoard
 - **[Coordinador(a) Junior de Gobierno de Datos](https://www.getonbrd.com/jobs/coordinador-a-junior-de-gobierno-de-datos-bice-vida-santiago)** en GetOnBoard Company _(2026-02-26)_ - GetOnBoard
-- **[Desarrollador Junior](https://www.getonbrd.com/jobs/desarrollador-junior-ser-q-santiago)** en GetOnBoard Company _(2026-02-25)_ - GetOnBoard
+- **[Ícaro Sales – Trainee Program](https://www.getonbrd.com/jobs/icaro-sales-trainee-program-iconstruye-santiago)** en GetOnBoard Company _(2026-03-11)_ - GetOnBoard
 - **[Analista de Analítica Digital](https://www.getonbrd.com/jobs/analista-de-analitica-digital-bc-tecnologia-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
 - **[SRE / DevOps Engineer Junior](https://www.getonbrd.com/jobs/sre-devops-engineer-junior-bc-tecnologia-remote)** en GetOnBoard Company _(2026-02-24)_ - GetOnBoard
 - **[Lead Cloud Data Engineer](https://www.getonbrd.com/jobs/lead-cloud-data-engineer-signant-health-remote)** en GetOnBoard Company _(2026-02-09)_ - GetOnBoard
@@ -54,14 +56,14 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Trainee Industrial](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-agrosuper-rancagua)** en GetOnBoard Company _(2025-12-29)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
+- **[Trainee Anwendungsberatung (m/w/d) für Finanzsoftware](https://www.arbeitnow.com/jobs/companies/simba-computer-systeme-gmbh/trainee-anwendungsberatung-fur-finanzsoftware-ostfildern-74869)** en Simba Computer Systeme GmbH _(2026-03-12)_ - Arbeitnow
 - **[Jr Social Media Manager](https://remoteOK.com/remote-jobs/remote-jr-social-media-manager-keywords-studios-1130655)** en Keywords Studios _(2026-03-06)_ - RemoteOK
 - **[Cloud Architect](https://remoteOK.com/remote-jobs/remote-cloud-architect-accenture-federal-services-1130620)** en Accenture Federal Services _(2026-03-03)_ - RemoteOK
 
 ### Mobile
 
-- **[Junior Legal Counsel, Employment Law](https://www.arbeitnow.com/jobs/companies/sumup/junior-legal-counsel-employment-law-berlin-358295)** en SumUp _(2026-03-11)_ - Arbeitnow
+- **[Junior Kosmetiker:in (m/w/d) mit Schwerpunkt Gesichtsbehandlungen](https://www.arbeitnow.com/jobs/companies/c1-kosmetik-gmbh/junior-kosmetikerin-mit-schwerpunkt-gesichtsbehandlungen-munich-174550)** en C1 Kosmetik GmbH _(2026-03-12)_ - Arbeitnow
 - **[Crypto Market Operations Trainee](https://remoteOK.com/remote-jobs/remote-crypto-market-operations-trainee-begini-1130604)** en Begini _(2026-03-03)_ - RemoteOK
-- **[Junior Live Ops Game Designer](https://remoteOK.com/remote-jobs/remote-junior-live-ops-game-designer-a-thinking-ape-1130577)** en A Thinking Ape _(2026-02-28)_ - RemoteOK
 
 ### Other
 
@@ -72,11 +74,13 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
-- **[Team Lead Accounting | Scaling Phase](https://www.arbeitnow.com/jobs/companies/matera-gmbh/team-lead-accounting-scaling-phase-berlin-202222)** en Matera GmbH _(2026-03-11)_ - Arbeitnow
-- **[Teamleitung Buchhaltung | Wachstumsphase](https://www.arbeitnow.com/jobs/companies/matera-gmbh/teamleitung-buchhaltung-wachstumsphase-berlin-162513)** en Matera GmbH _(2026-03-11)_ - Arbeitnow
-- **[(Junior) Grafikdesigner (m/w/d) .](https://www.arbeitnow.com/jobs/companies/safenow/junior-grafikdesigner-munich-351864)** en SafeNow _(2026-03-11)_ - Arbeitnow
-- **[Junior Performance Marketing Manager (m/w/d) | Remote | Werkstudent / Teilzeit](https://www.arbeitnow.com/jobs/companies/smartkundigen-ohg/junior-performance-marketing-manager-remote-werkstudent-teilzeit-neuss-289200)** en smartkündigen OHG _(2026-03-11)_ - Arbeitnow
-- **[Junior Social Ads Manager (m/w/d) | Remote | Werkstudent / Teilzeit](https://www.arbeitnow.com/jobs/companies/smartkundigen-ohg/junior-social-ads-manager-remote-werkstudent-teilzeit-neuss-279288)** en smartkündigen OHG _(2026-03-11)_ - Arbeitnow
+- **[Community Activation Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/gocomo-gmbh/community-activation-manager-berlin-213460)** en gocomo GmbH _(2026-03-12)_ - Arbeitnow
+- **[Trainee Sales & Expansionsmanagement - Real Estate](https://www.arbeitnow.com/jobs/companies/homeday-gmbh/trainee-sales-expansionsmanagement-real-estate-berlin-111274)** en Homeday GmbH _(2026-03-12)_ - Arbeitnow
+- **[Junior Performance Marketing Manager (m/w/d) | Remote | Werkstudent / Teilzeit](https://www.arbeitnow.com/jobs/companies/smartkundigen-ohg/junior-performance-marketing-manager-remote-werkstudent-teilzeit-neuss-371997)** en smartkündigen OHG _(2026-03-12)_ - Arbeitnow
+- **[Junior Social Ads Manager (m/w/d) | Remote | Werkstudent / Teilzeit](https://www.arbeitnow.com/jobs/companies/smartkundigen-ohg/junior-social-ads-manager-remote-werkstudent-teilzeit-neuss-109878)** en smartkündigen OHG _(2026-03-12)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-206404)** en Lionflence _(2026-03-12)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-92802)** en Lionflence _(2026-03-12)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-369874)** en Lionflence _(2026-03-12)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
