@@ -21,10 +21,10 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
 | Analista de Seguridad de la Información Junior (2) | Ruby (2) |
-| Controller (m/w/d) im Öffentlichen Dienst (2) | Data (2) |
-| Ejecutivo de Soporte Trainee (2) | Data engineer (2) |
-| Technical Project Manager (1) | Automation (1) |
-| DevOps Engineer Junior (1) | Angular (1) |
+| Ingeniero Trainee Planta San Vicente (2) | Java (2) |
+| Ejecutivo de Soporte Trainee (2) | Data (2) |
+| Technical Project Manager (1) | Data engineer (2) |
+| DevOps Engineer Junior (1) | Automation (1) |
 
 ### Frontend
 
@@ -35,8 +35,8 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Junior Automation Developer (N8n, APIs, JS)](https://www.getonbrd.com/jobs/jjunior-automation-developer-n8n-apis-js-lumago-info-admyo-s-a-de-c-v-remote)** en GetOnBoard Company _(2025-11-29)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Shopify Engineer](https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643)** en Nebulab _(2026-03-03)_ - Remotive
-- **[Junior Software Entwickler KI-gestützte Webentwicklung (m/w/d)](https://www.arbeitnow.com/jobs/companies/galloverde-gmbh-co-kg/junior-software-entwickler-ki-gestutzte-webentwicklung-dreieich-228042)** en GalloVerde GmbH & Co. KG _(2026-03-13)_ - Arbeitnow
-- **[Senior Full-Stack Engineer for Marketing / Growth (m/w/d)](https://www.arbeitnow.com/jobs/companies/accountable/senior-full-stack-engineer-for-marketing-growth-berlin-72962)** en Accountable _(2026-03-13)_ - Arbeitnow
+- **[Senior Java Backend Engineer (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-java-backend-engineer-munich-219116)** en Atolls _(2026-03-14)_ - Arbeitnow
+- **[Senior Software Engineer (Java/SpringBoot) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-software-engineer-java-springboot-munich-49710)** en Atolls _(2026-03-14)_ - Arbeitnow
 - **[Senior Software Engineer React](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-react-creative-chaos-1130645)** en Creative Chaos _(2026-03-05)_ - RemoteOK
 
 ### Backend
@@ -58,20 +58,16 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Trainee Industrial](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-agrosuper-rancagua)** en GetOnBoard Company _(2025-12-29)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
-- **[Junior Backend Software Developer (m/w/d) Java / Kotlin / Spring Boot](https://www.arbeitnow.com/jobs/companies/etalytics-gmbh/junior-backend-software-developer-java-kotlin-spring-boot-darmstadt-408183)** en etalytics GmbH _(2026-03-13)_ - Arbeitnow
-- **[Junior Project & Operations Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/fc-viktoria-1889-berlin-frauen-fussball-gmbh/junior-project-operations-manager-berlin-236469)** en FC Viktoria 1889 Berlin Frauen-Fußball GmbH _(2026-03-13)_ - Arbeitnow
-- **[Controller (m/w/d) im Öffentlichen Dienst](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/controller-im-offentlichen-dienst-munich-135402)** en MY Humancapital GmbH _(2026-03-13)_ - Arbeitnow
-- **[Controller (m/w/d) im Öffentlichen Dienst](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/controller-im-offentlichen-dienst-munich-330811)** en MY Humancapital GmbH _(2026-03-13)_ - Arbeitnow
 - **[Jr Social Media Manager](https://remoteOK.com/remote-jobs/remote-jr-social-media-manager-keywords-studios-1130655)** en Keywords Studios _(2026-03-06)_ - RemoteOK
-- **[Cloud Architect](https://remoteOK.com/remote-jobs/remote-cloud-architect-accenture-federal-services-1130620)** en Accenture Federal Services _(2026-03-03)_ - RemoteOK
 
 ### Mobile
 
 - **[Ingeniero Trainee Planta San Vicente](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-san-vicente-agrosuper-san-vicente)** en GetOnBoard Company _(2026-03-12)_ - GetOnBoard
+- **[Ingeniero Trainee Planta la Calera](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-la-calera-agrosuper-valparaiso)** en GetOnBoard Company _(2026-03-13)_ - GetOnBoard
 
-### QA
+### Data
 
-- **[Architect/Tech Lead (m/w/x) – Distributed Systems Application Software](https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/architect-tech-lead-distributed-systems-application-software-munich-348746)** en K-tronik GmbH _(2026-03-13)_ - Arbeitnow
+- **[Entry Level Crypto Market Specialist](https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-elemental-terra-1130759)** en ELEMENTAL TERRA _(2026-03-13)_ - RemoteOK
 
 ### Other
 
@@ -79,12 +75,10 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Trainee Automatización Industrial (Plc)](https://www.getonbrd.com/jobs/trainee-planta-alimentos-agrosuper-rancagua)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Treasury & Accounting Analyst Junior](https://www.getonbrd.com/jobs/treasury-accounting-analyst-junior-wherex-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
 - **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
+- **[Ingeniero Trainee Planta San Vicente](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-san-vicente-agrosuper-san-vicente-fc44)** en GetOnBoard Company _(2026-03-13)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
-- **[Teamleitung Buchhaltung | Wachstumsphase](https://www.arbeitnow.com/jobs/companies/matera-gmbh/teamleitung-buchhaltung-wachstumsphase-berlin-172621)** en Matera GmbH _(2026-03-13)_ - Arbeitnow
-- **[Team Lead Accounting | Scaling Phase](https://www.arbeitnow.com/jobs/companies/matera-gmbh/team-lead-accounting-scaling-phase-berlin-128623)** en Matera GmbH _(2026-03-13)_ - Arbeitnow
-- **[Junior HR Manager (m/w/d) – Schwerpunkt Recruiting](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/junior-hr-manager-schwerpunkt-recruiting-munich-151749)** en MY Humancapital GmbH _(2026-03-13)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
