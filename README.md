@@ -21,10 +21,10 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
 | Analista de Seguridad de la Información Junior (2) | Ruby (2) |
-| Ingeniero Trainee Planta San Vicente (2) | Java (2) |
-| Ejecutivo de Soporte Trainee (2) | Data engineer (2) |
-| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Data (2) |
-| Technical Project Manager (1) | Automation (1) |
+| Ingeniero Trainee Planta San Vicente (2) | Data engineer (2) |
+| Ejecutivo de Soporte Trainee (2) | Data (2) |
+| Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d) (2) | Automation (1) |
+| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Angular (1) |
 
 ### Frontend
 
@@ -35,8 +35,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Junior Automation Developer (N8n, APIs, JS)](https://www.getonbrd.com/jobs/jjunior-automation-developer-n8n-apis-js-lumago-info-admyo-s-a-de-c-v-remote)** en GetOnBoard Company _(2025-11-29)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Shopify Engineer](https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643)** en Nebulab _(2026-03-03)_ - Remotive
-- **[Senior Java Backend Engineer (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-java-backend-engineer-munich-219116)** en Atolls _(2026-03-14)_ - Arbeitnow
-- **[Senior Software Engineer (Java/SpringBoot) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-software-engineer-java-springboot-munich-49710)** en Atolls _(2026-03-14)_ - Arbeitnow
 
 ### Backend
 
@@ -78,6 +76,12 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
+- **[Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)](https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-bad-homburg-214008)** en SBC Steuerberater Rechtsanwälte GbR _(2026-03-16)_ - Arbeitnow
+- **[Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)](https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-darmstadt-248978)** en SBC Steuerberater Rechtsanwälte GbR _(2026-03-16)_ - Arbeitnow
+- **[Junior Produktmanager (m/w/d) in Voll- oder Teilzeit (ab 25 Stunden/Woche)](https://www.arbeitnow.com/jobs/companies/petlando-gmbh/junior-produktmanager-in-voll-oder-teilzeit-ab-25-stunden-woche-mering-494400)** en Petlando GmbH _(2026-03-16)_ - Arbeitnow
+- **[(Junior) Onlinemarketing Manager (M/W/D) Schwerpunkt Social Media](https://www.arbeitnow.com/jobs/companies/plantamedium-gmbh/junior-onlinemarketing-manager-schwerpunkt-social-media-warendorf-60392)** en plantamedium GmbH _(2026-03-16)_ - Arbeitnow
+- **[Junior Performance Marketing Manager (m/w/d) | Remote | Werkstudent / Teilzeit](https://www.arbeitnow.com/jobs/companies/smartkundigen-ohg/junior-performance-marketing-manager-remote-werkstudent-teilzeit-neuss-130613)** en smartkündigen OHG _(2026-03-16)_ - Arbeitnow
+- **[Junior Social Ads Manager (m/w/d) | Remote | Werkstudent / Teilzeit](https://www.arbeitnow.com/jobs/companies/smartkundigen-ohg/junior-social-ads-manager-remote-werkstudent-teilzeit-neuss-312629)** en smartkündigen OHG _(2026-03-16)_ - Arbeitnow
 - **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-421589)** en Lionflence _(2026-03-15)_ - Arbeitnow
 - **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-272606)** en Lionflence _(2026-03-15)_ - Arbeitnow
 - **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-136998)** en Lionflence _(2026-03-15)_ - Arbeitnow
