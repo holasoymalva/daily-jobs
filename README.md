@@ -20,18 +20,17 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Analista de Seguridad de la Información Junior (2) | Ruby (2) |
-| Ingeniero Trainee Planta San Vicente (2) | Data engineer (2) |
-| Ejecutivo de Soporte Trainee (2) | Data (2) |
-| Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d) (2) | Automation (1) |
-| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Angular (1) |
+| Analista de Seguridad de la Información Junior (2) | Data (4) |
+| Ingeniero Trainee Planta San Vicente (2) | Data engineer (3) |
+| Ejecutivo de Soporte Trainee (2) | Ruby (1) |
+| Technical Project Manager (1) | Automation (1) |
+| DevOps Engineer Junior (1) | Angular (1) |
 
 ### Frontend
 
 - **[Technical Project Manager](https://www.getonbrd.com/jobs/technical-project-manager-waystone-software-altitude-remote)** en GetOnBoard Company _(2026-03-02)_ - GetOnBoard
 - **[DevOps Engineer Junior](https://www.getonbrd.com/jobs/devops-engineer-junior-healthatom-santiago)** en GetOnBoard Company _(2026-02-23)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
-- **[Junior Full-Stack Engineer (Ruby on Rails)](https://www.getonbrd.com/jobs/junior-full-stack-engineer-ruby-on-rails-autoraptor-remote)** en GetOnBoard Company _(2026-01-08)_ - GetOnBoard
 - **[Junior Automation Developer (N8n, APIs, JS)](https://www.getonbrd.com/jobs/jjunior-automation-developer-n8n-apis-js-lumago-info-admyo-s-a-de-c-v-remote)** en GetOnBoard Company _(2025-11-29)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Shopify Engineer](https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643)** en Nebulab _(2026-03-03)_ - Remotive
@@ -55,12 +54,18 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Trainee Industrial](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-agrosuper-rancagua)** en GetOnBoard Company _(2025-12-29)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
-- **[Operations Specialist, Fleet Account Management](https://www.arbeitnow.com/jobs/companies/wolt-english/operations-specialist-fleet-account-management-berlin-11480)** en Wolt - English _(2026-03-15)_ - Arbeitnow
+- **[Senior Data Analyst (f/m/d)](https://www.arbeitnow.com/jobs/companies/adjoe-gmbh/senior-data-analyst-hamburg-281558)** en adjoe GmbH _(2026-03-17)_ - Arbeitnow
+- **[Trainee Data Engineering*](https://www.arbeitnow.com/jobs/companies/haeger-consulting-gmbh/trainee-data-engineering-bonn-189546)** en Haeger Consulting GmbH _(2026-03-17)_ - Arbeitnow
+- **[Senior Account Manager (m/f/x) - German Speaker](https://www.arbeitnow.com/jobs/companies/atolls/senior-account-manager-german-speaker-berlin-83593)** en Atolls _(2026-03-17)_ - Arbeitnow
+- **[Senior AI & Business Transformation Consultant (m/f/d)](https://www.arbeitnow.com/jobs/companies/xalt-business-consulting-gmbh/senior-ai-business-transformation-consultant-leipzig-489343)** en XALT Business Consulting GmbH _(2026-03-16)_ - Arbeitnow
+- **[Junior Account Manager](https://www.arbeitnow.com/jobs/companies/wolt-english/junior-account-manager-munich-206538)** en Wolt - English _(2026-03-16)_ - Arbeitnow
+- **[Junior Compliance Manager  / Digital Compliance & IT Governance (m/w/d)](https://www.arbeitnow.com/jobs/companies/carmen-zimmermann-personalberatung/junior-compliance-manager-digital-compliance-it-governance-cologne-90142)** en Carmen Zimmermann Personalberatung _(2026-03-16)_ - Arbeitnow
 
 ### Mobile
 
 - **[Ingeniero Trainee Planta San Vicente](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-san-vicente-agrosuper-san-vicente)** en GetOnBoard Company _(2026-03-12)_ - GetOnBoard
 - **[Ingeniero Trainee Planta la Calera](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-la-calera-agrosuper-valparaiso)** en GetOnBoard Company _(2026-03-13)_ - GetOnBoard
+- **[DevOps Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/crewmeister/devops-engineer-munich-50499)** en Crewmeister _(2026-03-16)_ - Arbeitnow
 
 ### Data
 
@@ -76,15 +81,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
-- **[Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)](https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-bad-homburg-214008)** en SBC Steuerberater Rechtsanwälte GbR _(2026-03-16)_ - Arbeitnow
-- **[Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)](https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-darmstadt-248978)** en SBC Steuerberater Rechtsanwälte GbR _(2026-03-16)_ - Arbeitnow
-- **[Junior Produktmanager (m/w/d) in Voll- oder Teilzeit (ab 25 Stunden/Woche)](https://www.arbeitnow.com/jobs/companies/petlando-gmbh/junior-produktmanager-in-voll-oder-teilzeit-ab-25-stunden-woche-mering-494400)** en Petlando GmbH _(2026-03-16)_ - Arbeitnow
-- **[(Junior) Onlinemarketing Manager (M/W/D) Schwerpunkt Social Media](https://www.arbeitnow.com/jobs/companies/plantamedium-gmbh/junior-onlinemarketing-manager-schwerpunkt-social-media-warendorf-60392)** en plantamedium GmbH _(2026-03-16)_ - Arbeitnow
-- **[Junior Performance Marketing Manager (m/w/d) | Remote | Werkstudent / Teilzeit](https://www.arbeitnow.com/jobs/companies/smartkundigen-ohg/junior-performance-marketing-manager-remote-werkstudent-teilzeit-neuss-130613)** en smartkündigen OHG _(2026-03-16)_ - Arbeitnow
-- **[Junior Social Ads Manager (m/w/d) | Remote | Werkstudent / Teilzeit](https://www.arbeitnow.com/jobs/companies/smartkundigen-ohg/junior-social-ads-manager-remote-werkstudent-teilzeit-neuss-312629)** en smartkündigen OHG _(2026-03-16)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-421589)** en Lionflence _(2026-03-15)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-272606)** en Lionflence _(2026-03-15)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-136998)** en Lionflence _(2026-03-15)_ - Arbeitnow
+- **[Trainee Art Department (m/w/d) - Schwerpunkt Digital & Social Media](https://www.arbeitnow.com/jobs/companies/ian-in-a-nutshell-gmbh/trainee-art-department-schwerpunkt-digital-social-media-munich-36652)** en IAN In A Nutshell GmbH _(2026-03-17)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
