@@ -20,29 +20,28 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Analista de Seguridad de la Información Junior (2) | Data engineer (2) |
-| Ingeniero Trainee Planta San Vicente (2) | Data (2) |
-| Ejecutivo de Soporte Trainee (2) | Back-end (2) |
-| Technical Project Manager (1) | Ruby (1) |
-| DevOps Engineer Junior (1) | Automation (1) |
+| Analista de Seguridad de la Información Junior (2) | Data (2) |
+| Ingeniero Trainee Planta San Vicente (2) | Data engineer (2) |
+| Ejecutivo de Soporte Trainee (2) | Typescript (1) |
+| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Java (1) |
+| Technical Project Manager (1) | Javascript (1) |
 
 ### Frontend
 
+- **[Desarrollador Full-Stack JavaScript/TypeScript Junior](https://www.getonbrd.com/jobs/desarrollador-full-stack-javascript-typescript-junior-tcit-santiago)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
 - **[Technical Project Manager](https://www.getonbrd.com/jobs/technical-project-manager-waystone-software-altitude-remote)** en GetOnBoard Company _(2026-03-02)_ - GetOnBoard
 - **[DevOps Engineer Junior](https://www.getonbrd.com/jobs/devops-engineer-junior-healthatom-santiago)** en GetOnBoard Company _(2026-02-23)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
 - **[Junior Automation Developer (N8n, APIs, JS)](https://www.getonbrd.com/jobs/jjunior-automation-developer-n8n-apis-js-lumago-info-admyo-s-a-de-c-v-remote)** en GetOnBoard Company _(2025-11-29)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Shopify Engineer](https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643)** en Nebulab _(2026-03-03)_ - Remotive
-- **[Junior Frontend Developer (m/w/d)](https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-frontend-developer-frankfurt-218055)** en ABRIO GmbH _(2026-03-18)_ - Arbeitnow
-- **[Junior Softwareentwickler (m/w/d)](https://www.arbeitnow.com/jobs/companies/arva-digital-gmbh/junior-softwareentwickler-rosenheim-252448)** en Arva Digital GmbH _(2026-03-17)_ - Arbeitnow
 
 ### Backend
 
 - **[Ingeniero Trainee Planta Alimentos Longovilo](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-alimentos-longobilo-agrosuper-melipilla)** en GetOnBoard Company _(2026-03-12)_ - GetOnBoard
 - **[Ingeniero Trainee Planta Alimentos la Calera](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-alimentos-la-calera-agrosuper-valparaiso)** en GetOnBoard Company _(2026-03-12)_ - GetOnBoard
 - **[Data Engineer (Junior o Mid)](https://www.getonbrd.com/jobs/data-engineer-junior-o-mid-lisit-remote)** en GetOnBoard Company _(2026-03-11)_ - GetOnBoard
-- **[Back-end Developer – Junior](https://www.getonbrd.com/jobs/backend-developer-junior-factor-it-remote)** en GetOnBoard Company _(2026-03-17)_ - GetOnBoard
+- **[Ingeniero Agrónomo Trainee Producción Cerdos](https://www.getonbrd.com/jobs/ingeniero-agronomo-trainee-produccion-cerdos-agrosuper-rancagua)** en GetOnBoard Company _(2026-03-19)_ - GetOnBoard
 - **[Ícaro Sales – Trainee Program](https://www.getonbrd.com/jobs/icaro-sales-trainee-program-iconstruye-santiago)** en GetOnBoard Company _(2026-03-11)_ - GetOnBoard
 - **[Analista de Analítica Digital](https://www.getonbrd.com/jobs/analista-de-analitica-digital-bc-tecnologia-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
 - **[Digital Quality Lead](https://www.getonbrd.com/jobs/digital-quality-lead-signant-health-remote)** en GetOnBoard Company _(2026-03-03)_ - GetOnBoard
@@ -57,7 +56,8 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Trainee Industrial](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-agrosuper-rancagua)** en GetOnBoard Company _(2025-12-29)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
-- **[Senior Manager Social Media Management](https://www.arbeitnow.com/jobs/companies/pulse-advertising-gmbh/senior-manager-social-media-management-berlin-9635)** en Pulse Advertising GmbH _(2026-03-18)_ - Arbeitnow
+- **[Senior Elixir Software Engineer (all genders)](https://www.arbeitnow.com/jobs/companies/distribusion-technologies-gmbh/senior-elixir-software-engineer-all-genders-berlin-430735)** en Distribusion Technologies GmbH _(2026-03-19)_ - Arbeitnow
+- **[(Junior) Category Manager (all genders)](https://www.arbeitnow.com/jobs/companies/mammaly/junior-category-manager-all-genders-berlin-123853)** en mammaly _(2026-03-19)_ - Arbeitnow
 
 ### Mobile
 
@@ -66,21 +66,21 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 ### Data
 
+- **[Junior Crypto Analyst & Trader](https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-begini-1130809)** en Begini _(2026-03-17)_ - RemoteOK
 - **[Entry Level Crypto Market Specialist](https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-elemental-terra-1130759)** en ELEMENTAL TERRA _(2026-03-13)_ - RemoteOK
 
 ### Other
 
+- **[Ejecutiva de Cuenta Marketing Junior](https://www.getonbrd.com/jobs/ejecutiva-de-cuenta-match-agencia-consultora-remote)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
 - **[Ingeniero Trainee Industrial, Plantas Productivas Agrosuper](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-plantas-faenadoras-agrosuper-rancagua)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Trainee Automatización Industrial (Plc)](https://www.getonbrd.com/jobs/trainee-planta-alimentos-agrosuper-rancagua)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Treasury & Accounting Analyst Junior](https://www.getonbrd.com/jobs/treasury-accounting-analyst-junior-wherex-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
-- **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
 - **[Ingeniero Trainee Planta San Vicente](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-san-vicente-agrosuper-san-vicente-fc44)** en GetOnBoard Company _(2026-03-13)_ - GetOnBoard
+- **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
-- **[Senior Manager, Strategy (Social Media Focus)](https://www.arbeitnow.com/jobs/companies/pulse-advertising-gmbh/senior-manager-strategy-social-media-focus-berlin-5979)** en Pulse Advertising GmbH _(2026-03-18)_ - Arbeitnow
-- **[Junior Projektmanager:in Social & Creator Marketing (w/m/d)](https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/junior-projektmanagerin-social-creator-marketing-dortmund-426588)** en likeyaa GmbH _(2026-03-18)_ - Arbeitnow
-- **[Praxissemester Digitale Kommunikation & Digitale Geschäftsentwicklung](https://www.arbeitnow.com/jobs/companies/frisch-auf-goppingen/praxissemester-digitale-kommunikation-digitale-geschaftsentwicklung-goppingen-371628)** en FRISCH AUF! Göppingen _(2026-03-18)_ - Arbeitnow
+- **[Junior IT Recruiting Consultant Schwerpunkt Vertrieb (m/w/d) gesucht - 100% remote innerhalb der BRD](https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/junior-it-recruiting-consultant-schwerpunkt-vertrieb-gesucht-100-remote-innerhalb-der-brd-cologne-239819)** en Intercon Solutions GmbH _(2026-03-18)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
