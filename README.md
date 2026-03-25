@@ -20,11 +20,11 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Analista de Seguridad de la Información Junior (2) | Data engineer (2) |
-| Ingeniero Trainee Planta San Vicente (2) | Data (2) |
-| Junior Manager Konzernrechnungswesen (m/f/d) (2) | Java (1) |
-| Ejecutivo de Soporte Trainee (2) | Typescript (1) |
-| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Javascript (1) |
+| Analista de Seguridad de la Información Junior (2) | Data (2) |
+| Ingeniero Trainee Planta San Vicente (2) | Javascript (1) |
+| Ejecutivo de Soporte Trainee (2) | Java (1) |
+| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Typescript (1) |
+| AI Engineer (1) | Ruby (1) |
 
 ### Frontend
 
@@ -35,8 +35,8 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
 - **[Junior Automation Developer (N8n, APIs, JS)](https://www.getonbrd.com/jobs/jjunior-automation-developer-n8n-apis-js-lumago-info-admyo-s-a-de-c-v-remote)** en GetOnBoard Company _(2025-11-29)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
+- **[Junior Project Coordinator](https://remotive.com/remote-jobs/project-management/junior-project-coordinator-2088663)** en C4Media Inc. _(2026-03-24)_ - Remotive
 - **[Shopify Engineer](https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643)** en Nebulab _(2026-03-03)_ - Remotive
-- **[Junior Frontend Developer (m/w/d) Shopify](https://www.arbeitnow.com/jobs/companies/yoffi-digital/junior-frontend-developer-shopify-hanover-107678)** en Yoffi Digital _(2026-03-23)_ - Arbeitnow
 
 ### Backend
 
@@ -49,7 +49,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Digital Quality Lead](https://www.getonbrd.com/jobs/digital-quality-lead-signant-health-remote)** en GetOnBoard Company _(2026-03-03)_ - GetOnBoard
 - **[Coordinador(a) Junior de Gobierno de Datos](https://www.getonbrd.com/jobs/coordinador-a-junior-de-gobierno-de-datos-bice-vida-santiago)** en GetOnBoard Company _(2026-02-26)_ - GetOnBoard
 - **[SRE / DevOps Engineer Junior](https://www.getonbrd.com/jobs/sre-devops-engineer-junior-bc-tecnologia-remote)** en GetOnBoard Company _(2026-02-24)_ - GetOnBoard
-- **[Lead Cloud Data Engineer](https://www.getonbrd.com/jobs/lead-cloud-data-engineer-signant-health-remote)** en GetOnBoard Company _(2026-02-09)_ - GetOnBoard
 - **[Asesor Educativo Comercial Junior](https://www.getonbrd.com/jobs/asesor-educativo-comercial-junior-colectivo23-lima)** en GetOnBoard Company _(2026-02-02)_ - GetOnBoard
 - **[Software Engineer Back-end Developer Junior](https://www.getonbrd.com/jobs/software-engineer-back-end-developer-junior-2brains-remote)** en GetOnBoard Company _(2026-01-23)_ - GetOnBoard
 - **[Jr Sales Executive](https://www.getonbrd.com/jobs/jr-sales-executive-coderslab-io-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-21)_ - GetOnBoard
@@ -58,23 +57,17 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Trainee Industrial](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-agrosuper-rancagua)** en GetOnBoard Company _(2025-12-29)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
-- **[Junior Marketing Consultant (m/w/d)](https://www.arbeitnow.com/jobs/companies/banse/junior-marketing-consultant-osnabruck-362106)** en banse _(2026-03-24)_ - Arbeitnow
-- **[Senior AI Engineer (f/m/d)](https://www.arbeitnow.com/jobs/companies/alpas/senior-ai-engineer-berlin-377374)** en Alpas _(2026-03-24)_ - Arbeitnow
-- **[Client Manager, Client Services](https://www.arbeitnow.com/jobs/companies/whalar-group/client-manager-client-services-berlin-358850)** en Whalar Group _(2026-03-23)_ - Arbeitnow
-- **[Junior HR Generalist (m/w/d) für EdTech-Startup (Berlin)](https://www.arbeitnow.com/jobs/companies/syntax-institut/junior-hr-generalist-fur-edtech-startup-berlin-236923)** en Syntax Institut _(2026-03-23)_ - Arbeitnow
-- **[Junior Projektmanager E-Commerce (m/w/d)](https://www.arbeitnow.com/jobs/companies/yoffi-digital/junior-projektmanager-e-commerce-hanover-345022)** en Yoffi Digital _(2026-03-23)_ - Arbeitnow
-- **[(Junior) UX Designer - Games (f/m/d)](https://www.arbeitnow.com/jobs/companies/gameduell/junior-ux-designer-games-berlin-422953)** en GameDuell _(2026-03-23)_ - Arbeitnow
+- **[Junior Controller / Finance & Data (m/w/d)](https://www.arbeitnow.com/jobs/companies/volt-venture-gmbh/junior-controller-finance-data-munster-63755)** en Volt Venture GmbH _(2026-03-25)_ - Arbeitnow
 
 ### Mobile
 
 - **[Ingeniero Trainee Planta San Vicente](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-san-vicente-agrosuper-san-vicente)** en GetOnBoard Company _(2026-03-12)_ - GetOnBoard
 - **[Ingeniero Trainee Planta la Calera](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-la-calera-agrosuper-valparaiso)** en GetOnBoard Company _(2026-03-13)_ - GetOnBoard
+- **[Senior Projektmanager:in für Beiersdorf - Social Media und Influencer Marketing (gn)](https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-projektmanagerin-fur-beiersdorf-social-media-und-influencer-marketing-gn-berlin-212062)** en Intermate Media GmbH _(2026-03-24)_ - Arbeitnow
 - **[Junior Manual QA Engineer](https://remoteOK.com/remote-jobs/remote-junior-manual-qa-engineer-topstep-1130823)** en Topstep _(2026-03-18)_ - RemoteOK
 
 ### Data
 
-- **[Junior Manager Konzernrechnungswesen (m/f/d)](https://www.arbeitnow.com/jobs/companies/flix/junior-manager-konzernrechnungswesen-berlin-23347)** en Flix _(2026-03-24)_ - Arbeitnow
-- **[Junior Manager Konzernrechnungswesen (m/f/d)](https://www.arbeitnow.com/jobs/companies/flix/junior-manager-konzernrechnungswesen-berlin-16761)** en Flix _(2026-03-24)_ - Arbeitnow
 - **[Junior Crypto Analyst & Trader](https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-begini-1130809)** en Begini _(2026-03-17)_ - RemoteOK
 - **[Entry Level Crypto Market Specialist](https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-elemental-terra-1130759)** en ELEMENTAL TERRA _(2026-03-13)_ - RemoteOK
 
@@ -89,11 +82,8 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
-- **[Duales Studium (m/w/d) in der Wirtschaftsberatung bei HORBACH](https://www.arbeitnow.com/jobs/companies/horbach-wirtschaftsberatung-gmbh/duales-studium-in-der-wirtschaftsberatung-bei-horbach-stuttgart-368990)** en HORBACH Wirtschaftsberatung GmbH _(2026-03-24)_ - Arbeitnow
-- **[Trainee Finanzberater (m/w/d) bei HORBACH](https://www.arbeitnow.com/jobs/companies/horbach/trainee-finanzberater-bei-horbach-stuttgart-97068)** en HORBACH _(2026-03-24)_ - Arbeitnow
-- **[(Junior/Senior) Grafiker (m/w/d)](https://www.arbeitnow.com/jobs/companies/stickerfive-gmbh/junior-senior-grafiker-grafelfing-359361)** en stickerfive GmbH _(2026-03-23)_ - Arbeitnow
-- **[Junior FinTech Online Marketing (m/w/d)](https://www.arbeitnow.com/jobs/companies/finment-gmbh/junior-fintech-online-marketing-berlin-289052)** en FinMent GmbH _(2026-03-23)_ - Arbeitnow
-- **[Online Marketing FinTech (m/w/d)](https://www.arbeitnow.com/jobs/companies/finment-gmbh/online-marketing-fintech-berlin-196328)** en FinMent GmbH _(2026-03-23)_ - Arbeitnow
+- **[Junior IT Consultant (m/w/d)](https://www.arbeitnow.com/jobs/companies/meskru-gmbh/junior-it-consultant-munich-86009)** en MESKRU GmbH _(2026-03-25)_ - Arbeitnow
+- **[Junior/Midlevel Headhunter/ Recruiter (m/w/d)](https://www.arbeitnow.com/jobs/companies/a-level/junior-midlevel-headhunter-recruiter-hamburg-498359)** en A-LEVEL _(2026-03-24)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
