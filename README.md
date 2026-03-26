@@ -20,11 +20,11 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Analista de Seguridad de la Información Junior (2) | Data (2) |
-| Ingeniero Trainee Planta San Vicente (2) | Javascript (1) |
+| Analista de Seguridad de la Información Junior (2) | Data engineer (2) |
+| Ingeniero Trainee Planta San Vicente (2) | Data (2) |
 | Ejecutivo de Soporte Trainee (2) | Java (1) |
 | Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Typescript (1) |
-| AI Engineer (1) | Ruby (1) |
+| AI Engineer (1) | Javascript (1) |
 
 ### Frontend
 
@@ -42,13 +42,15 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 - **[Ingeniero Trainee Planta Alimentos Longovilo](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-alimentos-longobilo-agrosuper-melipilla)** en GetOnBoard Company _(2026-03-12)_ - GetOnBoard
 - **[Ingeniero Trainee Planta Alimentos la Calera](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-alimentos-la-calera-agrosuper-valparaiso)** en GetOnBoard Company _(2026-03-12)_ - GetOnBoard
-- **[Data Engineer (Junior o Mid)](https://www.getonbrd.com/jobs/data-engineer-junior-o-mid-lisit-remote)** en GetOnBoard Company _(2026-03-11)_ - GetOnBoard
+- **[Analista de Soporte Junior](https://www.getonbrd.com/jobs/analista-junior-de-soporte-y-monitoreo-factor-it-remote)** en GetOnBoard Company _(2026-03-25)_ - GetOnBoard
 - **[Ingeniero Agrónomo Trainee Producción Cerdos](https://www.getonbrd.com/jobs/ingeniero-agronomo-trainee-produccion-cerdos-agrosuper-rancagua)** en GetOnBoard Company _(2026-03-19)_ - GetOnBoard
 - **[Ícaro Sales – Trainee Program](https://www.getonbrd.com/jobs/icaro-sales-trainee-program-iconstruye-santiago)** en GetOnBoard Company _(2026-03-11)_ - GetOnBoard
+- **[Data Engineer (Junior o Mid)](https://www.getonbrd.com/jobs/data-engineer-junior-o-mid-lisit-remote)** en GetOnBoard Company _(2026-03-11)_ - GetOnBoard
 - **[Analista de Analítica Digital](https://www.getonbrd.com/jobs/analista-de-analitica-digital-bc-tecnologia-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
 - **[Digital Quality Lead](https://www.getonbrd.com/jobs/digital-quality-lead-signant-health-remote)** en GetOnBoard Company _(2026-03-03)_ - GetOnBoard
 - **[Coordinador(a) Junior de Gobierno de Datos](https://www.getonbrd.com/jobs/coordinador-a-junior-de-gobierno-de-datos-bice-vida-santiago)** en GetOnBoard Company _(2026-02-26)_ - GetOnBoard
 - **[SRE / DevOps Engineer Junior](https://www.getonbrd.com/jobs/sre-devops-engineer-junior-bc-tecnologia-remote)** en GetOnBoard Company _(2026-02-24)_ - GetOnBoard
+- **[Data Engineer Junior SSR](https://www.getonbrd.com/jobs/data-engineer-ssr-tcit-santiago)** en GetOnBoard Company _(2026-02-23)_ - GetOnBoard
 - **[Asesor Educativo Comercial Junior](https://www.getonbrd.com/jobs/asesor-educativo-comercial-junior-colectivo23-lima)** en GetOnBoard Company _(2026-02-02)_ - GetOnBoard
 - **[Software Engineer Back-end Developer Junior](https://www.getonbrd.com/jobs/software-engineer-back-end-developer-junior-2brains-remote)** en GetOnBoard Company _(2026-01-23)_ - GetOnBoard
 - **[Jr Sales Executive](https://www.getonbrd.com/jobs/jr-sales-executive-coderslab-io-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-21)_ - GetOnBoard
@@ -57,13 +59,14 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Trainee Industrial](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-agrosuper-rancagua)** en GetOnBoard Company _(2025-12-29)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
-- **[Junior Controller / Finance & Data (m/w/d)](https://www.arbeitnow.com/jobs/companies/volt-venture-gmbh/junior-controller-finance-data-munster-63755)** en Volt Venture GmbH _(2026-03-25)_ - Arbeitnow
+- **[(Junior) Backend Softwareentwickler (m/w/d)](https://www.arbeitnow.com/jobs/companies/exco-gmbh/junior-backend-softwareentwickler-frankenthal-15189)** en EXCO GmbH _(2026-03-26)_ - Arbeitnow
+- **[Junior Performance Marketing Manager – Marketplaces (m/w/d)](https://www.arbeitnow.com/jobs/companies/tectake-gmbh/junior-performance-marketing-manager-marketplaces-hochberg-447183)** en TecTake GmbH _(2026-03-26)_ - Arbeitnow
+- **[(Junior) Sales Manager:in Print & Digital (w/m/d)](https://www.arbeitnow.com/jobs/companies/inpact-media-gmbh/junior-sales-managerin-print-digital-berlin-156488)** en in|pact media GmbH _(2026-03-25)_ - Arbeitnow
 
 ### Mobile
 
 - **[Ingeniero Trainee Planta San Vicente](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-san-vicente-agrosuper-san-vicente)** en GetOnBoard Company _(2026-03-12)_ - GetOnBoard
 - **[Ingeniero Trainee Planta la Calera](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-la-calera-agrosuper-valparaiso)** en GetOnBoard Company _(2026-03-13)_ - GetOnBoard
-- **[Senior Projektmanager:in für Beiersdorf - Social Media und Influencer Marketing (gn)](https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-projektmanagerin-fur-beiersdorf-social-media-und-influencer-marketing-gn-berlin-212062)** en Intermate Media GmbH _(2026-03-24)_ - Arbeitnow
 - **[Junior Manual QA Engineer](https://remoteOK.com/remote-jobs/remote-junior-manual-qa-engineer-topstep-1130823)** en Topstep _(2026-03-18)_ - RemoteOK
 
 ### Data
@@ -78,12 +81,12 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Trainee Industrial, Plantas Productivas Agrosuper](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-plantas-faenadoras-agrosuper-rancagua)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Trainee Automatización Industrial (Plc)](https://www.getonbrd.com/jobs/trainee-planta-alimentos-agrosuper-rancagua)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Treasury & Accounting Analyst Junior](https://www.getonbrd.com/jobs/treasury-accounting-analyst-junior-wherex-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
-- **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
-- **[Junior IT Consultant (m/w/d)](https://www.arbeitnow.com/jobs/companies/meskru-gmbh/junior-it-consultant-munich-86009)** en MESKRU GmbH _(2026-03-25)_ - Arbeitnow
-- **[Junior/Midlevel Headhunter/ Recruiter (m/w/d)](https://www.arbeitnow.com/jobs/companies/a-level/junior-midlevel-headhunter-recruiter-hamburg-498359)** en A-LEVEL _(2026-03-24)_ - Arbeitnow
+- **[Junior Fachinformatiker (m/w/d) - IT-Support - First und Second Level](https://www.arbeitnow.com/jobs/companies/tecnotron-elektronik-gmbh/junior-fachinformatiker-it-support-first-und-second-level-weissensberg-344882)** en tecnotron elektronik gmbh _(2026-03-26)_ - Arbeitnow
+- **[Junior Servicetechniker (m/w/d) - Medizintechnik](https://www.arbeitnow.com/jobs/companies/advitos-gmbh/junior-servicetechniker-medizintechnik-kassel-296845)** en ADVITOS GmbH _(2026-03-25)_ - Arbeitnow
+- **[Teamlead Controlling  (m/w/d)](https://www.arbeitnow.com/jobs/companies/santos-grills-gmbh/teamlead-controlling-cologne-222161)** en Santos Grills GmbH _(2026-03-25)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
