@@ -20,11 +20,11 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Analista de Seguridad de la Información Junior (2) | Typescript (2) |
-| Ingeniero Trainee Planta San Vicente (2) | Javascript (1) |
-| Ejecutivo de Soporte Trainee (2) | Java (1) |
-| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Ruby (1) |
-| AI Engineer (1) | Automation (1) |
+| Analista de Seguridad de la Información Junior (2) | Typescript (1) |
+| Ejecutivo de Soporte Trainee (2) | Javascript (1) |
+| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Java (1) |
+| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Ruby (1) |
+| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Automation (1) |
 
 ### Frontend
 
@@ -36,8 +36,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Junior Project Coordinator](https://remotive.com/remote-jobs/project-management/junior-project-coordinator-2088663)** en C4Media Inc. _(2026-03-24)_ - Remotive
 - **[Shopify Engineer](https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643)** en Nebulab _(2026-03-03)_ - Remotive
-- **[Sidebase Open-Source Contributor & Senior TS Dev (f/m/d)](https://www.arbeitnow.com/jobs/companies/sidestream/sidebase-open-source-contributor-senior-ts-dev-cologne-54105)** en Sidestream _(2026-03-27)_ - Arbeitnow
-- **[Senior Typescript Developer (f/m/d)](https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-59730)** en Sidestream _(2026-03-27)_ - Arbeitnow
 - **[Senior Developer Backend Search CD+E](https://remoteOK.com/remote-jobs/remote-senior-developer-backend-search-cd-e-ubiminds-1130881)** en Ubiminds _(2026-03-26)_ - RemoteOK
 
 ### Backend
@@ -45,8 +43,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Junior Growth Marketer (AI & Cloud Native)](https://www.getonbrd.com/jobs/senior-digital-marketing-growth-lead-ai-design-b2b-e-omnix-ai-corp-remote)** en GetOnBoard Company _(2026-03-26)_ - GetOnBoard
 - **[Analista de Soporte Junior](https://www.getonbrd.com/jobs/analista-junior-de-soporte-y-monitoreo-factor-it-remote)** en GetOnBoard Company _(2026-03-25)_ - GetOnBoard
 - **[Ingeniero Agrónomo Trainee Producción Cerdos](https://www.getonbrd.com/jobs/ingeniero-agronomo-trainee-produccion-cerdos-agrosuper-rancagua)** en GetOnBoard Company _(2026-03-19)_ - GetOnBoard
-- **[Ingeniero Trainee Planta Alimentos Longovilo](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-alimentos-longobilo-agrosuper-melipilla)** en GetOnBoard Company _(2026-03-12)_ - GetOnBoard
-- **[Ingeniero Trainee Planta Alimentos la Calera](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-alimentos-la-calera-agrosuper-valparaiso)** en GetOnBoard Company _(2026-03-12)_ - GetOnBoard
 - **[Ícaro Sales – Trainee Program](https://www.getonbrd.com/jobs/icaro-sales-trainee-program-iconstruye-santiago)** en GetOnBoard Company _(2026-03-11)_ - GetOnBoard
 - **[Analista de Analítica Digital](https://www.getonbrd.com/jobs/analista-de-analitica-digital-bc-tecnologia-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
 - **[Digital Quality Lead](https://www.getonbrd.com/jobs/digital-quality-lead-signant-health-remote)** en GetOnBoard Company _(2026-03-03)_ - GetOnBoard
@@ -61,12 +57,14 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Trainee Industrial](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-agrosuper-rancagua)** en GetOnBoard Company _(2025-12-29)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
+- **[(Junior) Consultant - Bankenberater (m/w/d)](https://www.arbeitnow.com/jobs/companies/genossenschaftsverband-bayern-ev/junior-consultant-bankenberater-munich-321750)** en Genossenschaftsverband Bayern e.V. _(2026-03-27)_ - Arbeitnow
+- **[Lead SAP SuccessFactors Senior Consultant (m/w/d)](https://www.arbeitnow.com/jobs/companies/insignion-management-consulting-gmbh/lead-sap-successfactors-senior-consultant-frankfurt-am-main-5941)** en Insignion Management Consulting GmbH _(2026-03-27)_ - Arbeitnow
+- **[Senior Payroll Associate Indian Payroll India](https://remoteOK.com/remote-jobs/remote-senior-payroll-associate-indian-payroll-india-deel-1130900)** en Deel _(2026-03-27)_ - RemoteOK
 
 ### Mobile
 
+- **[Soporte TI / Mesa de Ayuda (Zimbra)](https://www.getonbrd.com/jobs/soporte-ti-mesa-de-ayuda-zimbra-lisit-remote)** en GetOnBoard Company _(2026-03-27)_ - GetOnBoard
 - **[Salesforce Technical Consultant (Field Service)](https://www.getonbrd.com/jobs/salesforce-technical-consultant-field-service-niuro-remote)** en GetOnBoard Company _(2026-03-26)_ - GetOnBoard
-- **[Ingeniero Trainee Planta la Calera](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-la-calera-agrosuper-valparaiso)** en GetOnBoard Company _(2026-03-13)_ - GetOnBoard
-- **[Ingeniero Trainee Planta San Vicente](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-san-vicente-agrosuper-san-vicente)** en GetOnBoard Company _(2026-03-12)_ - GetOnBoard
 - **[Junior Manual QA Engineer](https://remoteOK.com/remote-jobs/remote-junior-manual-qa-engineer-topstep-1130823)** en Topstep _(2026-03-18)_ - RemoteOK
 
 ### Data
@@ -76,15 +74,15 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 ### Other
 
 - **[Ejecutiva de Cuenta Marketing Junior](https://www.getonbrd.com/jobs/ejecutiva-de-cuenta-match-agencia-consultora-remote)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
-- **[Ingeniero Trainee Planta San Vicente](https://www.getonbrd.com/jobs/ingeniero-trainee-planta-san-vicente-agrosuper-san-vicente-fc44)** en GetOnBoard Company _(2026-03-13)_ - GetOnBoard
-- **[Ingeniero Trainee Industrial, Plantas Productivas Agrosuper](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-plantas-faenadoras-agrosuper-rancagua)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
-- **[Trainee Automatización Industrial (Plc)](https://www.getonbrd.com/jobs/trainee-planta-alimentos-agrosuper-rancagua)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Treasury & Accounting Analyst Junior](https://www.getonbrd.com/jobs/treasury-accounting-analyst-junior-wherex-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
-- **[Duales Studium (m/w/d) in der Wirtschaftsberatung bei HORBACH](https://www.arbeitnow.com/jobs/companies/horbach-wirtschaftsberatung-gmbh/duales-studium-in-der-wirtschaftsberatung-bei-horbach-stuttgart-485141)** en HORBACH Wirtschaftsberatung GmbH _(2026-03-27)_ - Arbeitnow
-- **[Junior HR Manager (m/w/d) – Schwerpunkt Recruiting](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/junior-hr-manager-schwerpunkt-recruiting-munich-466413)** en MY Humancapital GmbH _(2026-03-27)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-270594)** en Lionflence _(2026-03-28)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-81101)** en Lionflence _(2026-03-28)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-47011)** en Lionflence _(2026-03-28)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-163232)** en Lionflence _(2026-03-28)_ - Arbeitnow
+- **[Junior Projektmanager Controlling & It (M|W|D)](https://www.arbeitnow.com/jobs/companies/ffs-fresh-food-services/junior-projektmanager-controlling-it-mwd-bochum-221022)** en FFS Fresh Food Services _(2026-03-27)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
