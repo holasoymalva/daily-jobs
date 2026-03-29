@@ -20,7 +20,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Analista de Seguridad de la Información Junior (2) | Typescript (1) |
+| Analista de Seguridad de la Información Junior (2) | Typescript (2) |
 | Ejecutivo de Soporte Trainee (2) | Javascript (1) |
 | Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Java (1) |
 | Junior Artist Manager / Influencer Manager (m/w/d) (2) | Ruby (1) |
@@ -36,6 +36,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Junior Project Coordinator](https://remotive.com/remote-jobs/project-management/junior-project-coordinator-2088663)** en C4Media Inc. _(2026-03-24)_ - Remotive
 - **[Shopify Engineer](https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643)** en Nebulab _(2026-03-03)_ - Remotive
+- **[Senior Frontend Engineer (React / TypeScript)](https://www.arbeitnow.com/jobs/companies/wearedna/senior-frontend-engineer-react-typescript-augsburg-455150)** en weareDNA _(2026-03-29)_ - Arbeitnow
 - **[Senior Developer Backend Search CD+E](https://remoteOK.com/remote-jobs/remote-senior-developer-backend-search-cd-e-ubiminds-1130881)** en Ubiminds _(2026-03-26)_ - RemoteOK
 
 ### Backend
@@ -58,7 +59,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
 - **[(Junior) Consultant - Bankenberater (m/w/d)](https://www.arbeitnow.com/jobs/companies/genossenschaftsverband-bayern-ev/junior-consultant-bankenberater-munich-321750)** en Genossenschaftsverband Bayern e.V. _(2026-03-27)_ - Arbeitnow
-- **[Lead SAP SuccessFactors Senior Consultant (m/w/d)](https://www.arbeitnow.com/jobs/companies/insignion-management-consulting-gmbh/lead-sap-successfactors-senior-consultant-frankfurt-am-main-5941)** en Insignion Management Consulting GmbH _(2026-03-27)_ - Arbeitnow
 - **[Senior Payroll Associate Indian Payroll India](https://remoteOK.com/remote-jobs/remote-senior-payroll-associate-indian-payroll-india-deel-1130900)** en Deel _(2026-03-27)_ - RemoteOK
 
 ### Mobile
@@ -78,6 +78,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
+- **[Junior SAP Consultant (m/w/d) | Vollzeit](https://www.arbeitnow.com/jobs/companies/orexes-gmbh/junior-sap-consultant-vollzeit-fulda-362126)** en OREXES GmbH _(2026-03-29)_ - Arbeitnow
 - **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-270594)** en Lionflence _(2026-03-28)_ - Arbeitnow
 - **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-81101)** en Lionflence _(2026-03-28)_ - Arbeitnow
 - **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-47011)** en Lionflence _(2026-03-28)_ - Arbeitnow
