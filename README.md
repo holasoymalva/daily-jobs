@@ -21,10 +21,10 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
 | Analista de Seguridad de la Información Junior (2) | Typescript (2) |
-| Ejecutivo de Soporte Trainee (2) | Javascript (1) |
-| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Java (1) |
-| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Ruby (1) |
-| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Automation (1) |
+| Ejecutivo de Soporte Trainee (2) | Java (1) |
+| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Javascript (1) |
+| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Ruby (1) |
+| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Angular (1) |
 
 ### Frontend
 
@@ -32,7 +32,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[AI Engineer](https://www.getonbrd.com/jobs/senior-ai-engineer-mas-analytics-puerto-montt-santiago-puerto-varas)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Technical Project Manager](https://www.getonbrd.com/jobs/technical-project-manager-waystone-software-altitude-remote)** en GetOnBoard Company _(2026-03-02)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
-- **[Junior Automation Developer (N8n, APIs, JS)](https://www.getonbrd.com/jobs/jjunior-automation-developer-n8n-apis-js-lumago-info-admyo-s-a-de-c-v-remote)** en GetOnBoard Company _(2025-11-29)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Junior Project Coordinator](https://remotive.com/remote-jobs/project-management/junior-project-coordinator-2088663)** en C4Media Inc. _(2026-03-24)_ - Remotive
 - **[Shopify Engineer](https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643)** en Nebulab _(2026-03-03)_ - Remotive
@@ -58,7 +57,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Trainee Industrial](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-agrosuper-rancagua)** en GetOnBoard Company _(2025-12-29)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
-- **[(Junior) Consultant - Bankenberater (m/w/d)](https://www.arbeitnow.com/jobs/companies/genossenschaftsverband-bayern-ev/junior-consultant-bankenberater-munich-321750)** en Genossenschaftsverband Bayern e.V. _(2026-03-27)_ - Arbeitnow
 - **[Senior Payroll Associate Indian Payroll India](https://remoteOK.com/remote-jobs/remote-senior-payroll-associate-indian-payroll-india-deel-1130900)** en Deel _(2026-03-27)_ - RemoteOK
 
 ### Mobile
@@ -67,9 +65,9 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Salesforce Technical Consultant (Field Service)](https://www.getonbrd.com/jobs/salesforce-technical-consultant-field-service-niuro-remote)** en GetOnBoard Company _(2026-03-26)_ - GetOnBoard
 - **[Junior Manual QA Engineer](https://remoteOK.com/remote-jobs/remote-junior-manual-qa-engineer-topstep-1130823)** en Topstep _(2026-03-18)_ - RemoteOK
 
-### Data
+### QA
 
-- **[Junior Crypto Analyst & Trader](https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-begini-1130809)** en Begini _(2026-03-17)_ - RemoteOK
+- **[Junior Automation / No-Code Spezialist (m/w/d) Vollzeit oder Teilzeit](https://www.arbeitnow.com/jobs/companies/adkochmarketing-gmbh/junior-automation-no-code-spezialist-vollzeit-oder-teilzeit-hamburg-482250)** en AdKochMarketing GmbH _(2026-03-30)_ - Arbeitnow
 
 ### Other
 
@@ -78,12 +76,16 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
-- **[Junior SAP Consultant (m/w/d) | Vollzeit](https://www.arbeitnow.com/jobs/companies/orexes-gmbh/junior-sap-consultant-vollzeit-fulda-362126)** en OREXES GmbH _(2026-03-29)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-270594)** en Lionflence _(2026-03-28)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-81101)** en Lionflence _(2026-03-28)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-47011)** en Lionflence _(2026-03-28)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-163232)** en Lionflence _(2026-03-28)_ - Arbeitnow
-- **[Junior Projektmanager Controlling & It (M|W|D)](https://www.arbeitnow.com/jobs/companies/ffs-fresh-food-services/junior-projektmanager-controlling-it-mwd-bochum-221022)** en FFS Fresh Food Services _(2026-03-27)_ - Arbeitnow
+- **[Team Lead Accounting | Scaling Phase](https://www.arbeitnow.com/jobs/companies/matera-gmbh/team-lead-accounting-scaling-phase-berlin-450485)** en Matera GmbH _(2026-03-30)_ - Arbeitnow
+- **[Teamleitung Buchhaltung | Wachstumsphase](https://www.arbeitnow.com/jobs/companies/matera-gmbh/teamleitung-buchhaltung-wachstumsphase-berlin-218190)** en Matera GmbH _(2026-03-30)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-176989)** en Lionflence _(2026-03-30)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-461659)** en Lionflence _(2026-03-30)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-121842)** en Lionflence _(2026-03-30)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-243179)** en Lionflence _(2026-03-30)_ - Arbeitnow
+- **[Junior Key Account Manager für mehr Wohnraum (all genders) - Hybrid - Berlin](https://www.arbeitnow.com/jobs/companies/doozer-real-estate-systems-gmbh/junior-key-account-manager-fur-mehr-wohnraum-all-genders-hybrid-berlin-388856)** en Doozer Real Estate Systems GmbH _(2026-03-30)_ - Arbeitnow
+- **[Senior IT Consultant / IT Auditor (m/w/d) im Bereich Risk Advisory Services](https://www.arbeitnow.com/jobs/companies/brl-risk-consulting-gmbh-co-kg/senior-it-consultant-it-auditor-im-bereich-risk-advisory-services-essen-266829)** en BRL Risk Consulting GmbH & Co. KG _(2026-03-29)_ - Arbeitnow
+- **[Nebenberuflicher Junior Sales Manager (M/W/D) mit freier Zeiteinteilung - Gerne auch als Quereinsteiger!](https://www.arbeitnow.com/jobs/companies/finanzkanzlei-patrick-sliwka/nebenberuflicher-junior-sales-manager-mit-freier-zeiteinteilung-gerne-auch-als-quereinsteiger-wuppertal-107301)** en Finanzkanzlei Patrick Sliwka _(2026-03-29)_ - Arbeitnow
+- **[Hauptberuflicher Junior Sales Manager (M/W/D) mit freier Zeiteinteilung - Gerne auch als Quereinsteiger!](https://www.arbeitnow.com/jobs/companies/finanzkanzlei-patrick-sliwka/hauptberuflicher-junior-sales-manager-mit-freier-zeiteinteilung-gerne-auch-als-quereinsteiger-wuppertal-453471)** en Finanzkanzlei Patrick Sliwka _(2026-03-30)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
