@@ -20,15 +20,16 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Analista de Seguridad de la Información Junior (2) | Typescript (1) |
-| Junior DevOps Engineer (m/f/d) (2) | Javascript (1) |
-| Ejecutivo de Soporte Trainee (2) | Java (1) |
-| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Ruby (1) |
-| AI Engineer (1) | Angular (1) |
+| Analista de Seguridad de la Información Junior (2) | Java (1) |
+| Ejecutivo de Soporte Trainee (2) | Typescript (1) |
+| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Javascript (1) |
+| Front-end Developer Junior (1) | Front-end (1) |
+| AI Engineer (1) | Ruby (1) |
 
 ### Frontend
 
 - **[Desarrollador Full-Stack JavaScript/TypeScript Junior](https://www.getonbrd.com/jobs/desarrollador-full-stack-javascript-typescript-junior-tcit-santiago)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
+- **[Front-end Developer Junior](https://www.getonbrd.com/jobs/front-end-developer-junior-codeable-remote)** en GetOnBoard Company _(2026-03-31)_ - GetOnBoard
 - **[AI Engineer](https://www.getonbrd.com/jobs/senior-ai-engineer-mas-analytics-puerto-montt-santiago-puerto-varas)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
@@ -55,16 +56,18 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Trainee Industrial](https://www.getonbrd.com/jobs/ingeniero-trainee-industrial-agrosuper-rancagua)** en GetOnBoard Company _(2025-12-29)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
-- **[Trainee Paid Ads - Meta & Google (m/w/d)](https://www.arbeitnow.com/jobs/companies/shopwise-gmbh/trainee-paid-ads-meta-google-berlin-207244)** en Shopwise GmbH _(2026-03-31)_ - Arbeitnow
-- **[Junior Paid Ads Manager - Meta & Google (m/w/d)](https://www.arbeitnow.com/jobs/companies/shopwise-gmbh/junior-paid-ads-manager-meta-google-berlin-185828)** en Shopwise GmbH _(2026-03-31)_ - Arbeitnow
-- **[Junior DevOps Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/flix/junior-devops-engineer-munich-303358)** en Flix _(2026-03-30)_ - Arbeitnow
-- **[Junior DevOps Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/flix/junior-devops-engineer-berlin-68648)** en Flix _(2026-03-30)_ - Arbeitnow
+- **[Junior Project Manager:in](https://www.arbeitnow.com/jobs/companies/rsa-media-gmbh/junior-project-managerin-berlin-324652)** en rsa Media GmbH _(2026-04-01)_ - Arbeitnow
+- **[Junior Performance Marketing Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/xletix-gmbh/junior-performance-marketing-manager-berlin-432379)** en XLETIX GmbH _(2026-04-01)_ - Arbeitnow
+- **[Junior Product Manger (Buying - Private Label)](https://www.arbeitnow.com/jobs/companies/lookiero-outfittery-group/junior-product-manger-buying-private-label-berlin-224950)** en LOOKIERO OUTFITTERY GROUP _(2026-04-01)_ - Arbeitnow
 - **[Senior Payroll Associate Indian Payroll India](https://remoteOK.com/remote-jobs/remote-senior-payroll-associate-indian-payroll-india-deel-1130900)** en Deel _(2026-03-27)_ - RemoteOK
 
 ### Mobile
 
 - **[Salesforce Technical Consultant (Field Service)](https://www.getonbrd.com/jobs/salesforce-technical-consultant-field-service-niuro-remote)** en GetOnBoard Company _(2026-03-26)_ - GetOnBoard
-- **[Junior Manual QA Engineer](https://remoteOK.com/remote-jobs/remote-junior-manual-qa-engineer-topstep-1130823)** en Topstep _(2026-03-18)_ - RemoteOK
+
+### Data
+
+- **[Soporte Operativo Junior](https://www.getonbrd.com/jobs/soporte-operativo-junior-bc-tecnologia-remote)** en GetOnBoard Company _(2026-03-31)_ - GetOnBoard
 
 ### Other
 
@@ -73,13 +76,9 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
-- **[Junior HR & Assistenz (m/w/d) - 2 Jahre befristet](https://www.arbeitnow.com/jobs/companies/augustus-management-gmbh/junior-hr-assistenz-2-jahre-befristet-berlin-206189)** en Augustus Management GmbH _(2026-03-31)_ - Arbeitnow
-- **[(Junior) KYC Analyst](https://www.arbeitnow.com/jobs/companies/tangany-gmbh/junior-kyc-analyst-munich-270143)** en Tangany GmbH _(2026-03-31)_ - Arbeitnow
-- **[Marketing-Stratege (m/w/d) - Mini-Job](https://www.arbeitnow.com/jobs/companies/snipki/marketing-stratege-mini-job-berlin-138295)** en snipKI _(2026-03-31)_ - Arbeitnow
-- **[Marketing-Spezialist (m/w/d) - Mini-Job](https://www.arbeitnow.com/jobs/companies/snipki/marketing-spezialist-mini-job-berlin-83124)** en snipKI _(2026-03-31)_ - Arbeitnow
-- **[PR & Kommunikations-Spezialist (m/w/d) - Mini-Job](https://www.arbeitnow.com/jobs/companies/snipki/pr-kommunikations-spezialist-mini-job-berlin-18403)** en snipKI _(2026-03-31)_ - Arbeitnow
-- **[Graphic & Web Design Spezialist (m/w/d) - Mini-Job](https://www.arbeitnow.com/jobs/companies/snipki/graphic-web-design-spezialist-mini-job-berlin-406302)** en snipKI _(2026-03-31)_ - Arbeitnow
-- **[Junior Key Account Manager für mehr Wohnraum (all genders) - Hybrid - Berlin](https://www.arbeitnow.com/jobs/companies/doozer-real-estate-systems-gmbh/junior-key-account-manager-fur-mehr-wohnraum-all-genders-hybrid-berlin-11380)** en Doozer Real Estate Systems GmbH _(2026-03-31)_ - Arbeitnow
+- **[Teamleitung Buchhaltung | Wachstumsphase](https://www.arbeitnow.com/jobs/companies/matera-gmbh/teamleitung-buchhaltung-wachstumsphase-berlin-235642)** en Matera GmbH _(2026-04-01)_ - Arbeitnow
+- **[Team Lead Accounting | Scaling Phase](https://www.arbeitnow.com/jobs/companies/matera-gmbh/team-lead-accounting-scaling-phase-berlin-209632)** en Matera GmbH _(2026-04-01)_ - Arbeitnow
+- **[Teamlead Controlling  (m/w/d)](https://www.arbeitnow.com/jobs/companies/santos-grills-gmbh/teamlead-controlling-cologne-190139)** en Santos Grills GmbH _(2026-04-01)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
