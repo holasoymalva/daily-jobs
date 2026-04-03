@@ -20,11 +20,11 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Senior Frontend Engineer - Browser Extension (2) | Frontend (2) |
-| Analista de Seguridad de la Información Junior (2) | Front-end (1) |
-| Ejecutivo de Soporte Trainee (2) | Typescript (1) |
-| Front-end Developer Junior (1) | Javascript (1) |
-| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Java (1) |
+| Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x) (2) | Typescript (3) |
+| Analista de Seguridad de la Información Junior (2) | Backend (3) |
+| Ejecutivo de Soporte Trainee (2) | Node (2) |
+| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Front-end (1) |
+| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Javascript (1) |
 
 ### Frontend
 
@@ -34,12 +34,15 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Junior Project Coordinator](https://remotive.com/remote-jobs/project-management/junior-project-coordinator-2088663)** en C4Media Inc. _(2026-03-24)_ - Remotive
-- **[Senior Frontend Engineer - Browser Extension](https://www.arbeitnow.com/jobs/companies/atolls/senior-frontend-engineer-browser-extension-munich-315241)** en Atolls _(2026-04-01)_ - Arbeitnow
-- **[Senior Frontend Engineer - Browser Extension](https://www.arbeitnow.com/jobs/companies/atolls/senior-frontend-engineer-browser-extension-berlin-4167)** en Atolls _(2026-04-01)_ - Arbeitnow
+- **[Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-backend-engineer-typescript-nestjs-nodejs-munich-257716)** en Atolls _(2026-04-03)_ - Arbeitnow
+- **[Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-backend-engineer-typescript-nestjs-nodejs-berlin-399539)** en Atolls _(2026-04-03)_ - Arbeitnow
+- **[Intermediate Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-intermediate-full-stack-engineer-runn-1130979)** en Runn _(2026-04-02)_ - RemoteOK
+- **[Senior Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-runn-1130978)** en Runn _(2026-04-02)_ - RemoteOK
 - **[Senior Developer Backend Search CD+E](https://remoteOK.com/remote-jobs/remote-senior-developer-backend-search-cd-e-ubiminds-1130881)** en Ubiminds _(2026-03-26)_ - RemoteOK
 
 ### Backend
 
+- **[Ingeniero de Datos Junior (SQL, Python y AWS)](https://www.getonbrd.com/jobs/ingeniero-de-datos-junior-sql-python-y-aws-3it-santiago)** en GetOnBoard Company _(2026-04-02)_ - GetOnBoard
 - **[Analista de Proyectos TI y Automatización](https://www.getonbrd.com/jobs/analista-de-proyectos-ti-y-automatizacion-tcit-santiago)** en GetOnBoard Company _(2026-03-30)_ - GetOnBoard
 - **[Junior Growth Marketer (AI & Cloud Native)](https://www.getonbrd.com/jobs/senior-digital-marketing-growth-lead-ai-design-b2b-e-omnix-ai-corp-remote)** en GetOnBoard Company _(2026-03-26)_ - GetOnBoard
 - **[Data Engineer Senior](https://www.getonbrd.com/jobs/data-engineer-senior-grupo-mariposa-remote)** en GetOnBoard Company _(2026-03-30)_ - GetOnBoard
@@ -55,16 +58,13 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago-bb38)** en GetOnBoard Company _(2026-01-16)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
-- **[(Senior) GTM Strategy Manager (all genders)](https://www.arbeitnow.com/jobs/companies/clockin-gmbh/senior-gtm-strategy-manager-all-genders-munster-424658)** en clockin GmbH _(2026-04-02)_ - Arbeitnow
-- **[Grafikdesigner (m/w/d) in Vollzeit oder Teilzeit](https://www.arbeitnow.com/jobs/companies/spektrum-marketing/grafikdesigner-in-vollzeit-oder-teilzeit-siegen-442959)** en Spektrum Marketing _(2026-04-02)_ - Arbeitnow
-- **[Junior Sales Manager (w/m/d)](https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/junior-sales-manager-berlin-12610)** en SUCHMEISTEREI GmbH _(2026-04-02)_ - Arbeitnow
-- **[Entwickler (m/w/d) - RPG-Kenntnissen](https://www.arbeitnow.com/jobs/companies/jobatlas/entwickler-rpg-kenntnissen-werne-443049)** en JobAtlas _(2026-04-02)_ - Arbeitnow
-- **[(Junior) Performance Marketing & Content Manager (m/w/d) – Werkstudent / Teilzeit (20h)](https://www.arbeitnow.com/jobs/companies/lmk-immobilien-gmbh/junior-performance-marketing-content-manager-werkstudent-teilzeit-20h-gutersloh-453752)** en LMK Immobilien GmbH _(2026-04-01)_ - Arbeitnow
+- **[Controller (m/w/d) im Öffentlichen Dienst](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/controller-im-offentlichen-dienst-munich-36995)** en MY Humancapital GmbH _(2026-04-03)_ - Arbeitnow
 - **[Senior Payroll Associate Indian Payroll India](https://remoteOK.com/remote-jobs/remote-senior-payroll-associate-indian-payroll-india-deel-1130900)** en Deel _(2026-03-27)_ - RemoteOK
 
 ### Mobile
 
 - **[Salesforce Technical Consultant (Field Service)](https://www.getonbrd.com/jobs/salesforce-technical-consultant-field-service-niuro-remote)** en GetOnBoard Company _(2026-03-26)_ - GetOnBoard
+- **[Junior Crypto Analyst & Trader](https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-whitebridge-ltd-1130961)** en WhiteBridge-Ltd _(2026-04-01)_ - RemoteOK
 
 ### Data
 
@@ -76,12 +76,18 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 ### Other
 
+- **[Junior Network Engineer (Presencial)](https://www.getonbrd.com/jobs/networking-presencial-bc-tecnologia-santiago)** en GetOnBoard Company _(2026-04-02)_ - GetOnBoard
 - **[Ejecutiva de Cuenta Marketing Junior](https://www.getonbrd.com/jobs/ejecutiva-de-cuenta-match-agencia-consultora-remote)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
 - **[Treasury & Accounting Analyst Junior](https://www.getonbrd.com/jobs/treasury-accounting-analyst-junior-wherex-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
 - **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-62597)** en Lionflence _(2026-04-03)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-31091)** en Lionflence _(2026-04-03)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-324332)** en Lionflence _(2026-04-03)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-264602)** en Lionflence _(2026-04-03)_ - Arbeitnow
+- **[Strategy - Senior](https://www.arbeitnow.com/jobs/companies/eight-advisory-sas/strategy-senior-cologne-353837)** en EIGHT ADVISORY SAS _(2026-04-02)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
