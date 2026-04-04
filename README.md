@@ -20,11 +20,11 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x) (2) | Typescript (3) |
-| Analista de Seguridad de la Información Junior (2) | Backend (3) |
-| Ejecutivo de Soporte Trainee (2) | Node (2) |
-| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Front-end (1) |
-| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Javascript (1) |
+| Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x) (4) | Backend (7) |
+| Senior Software Engineer (Java/SpringBoot) (m/f/x) (2) | Typescript (5) |
+| Senior Java Backend Engineer (m/f/x) (2) | Java (5) |
+| Analista de Seguridad de la Información Junior (2) | Node (4) |
+| Ejecutivo de Soporte Trainee (2) | Spring (2) |
 
 ### Frontend
 
@@ -34,6 +34,12 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Junior Project Coordinator](https://remotive.com/remote-jobs/project-management/junior-project-coordinator-2088663)** en C4Media Inc. _(2026-03-24)_ - Remotive
+- **[Senior Software Engineer (Java/SpringBoot) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-software-engineer-java-springboot-berlin-143221)** en Atolls _(2026-04-03)_ - Arbeitnow
+- **[Senior Software Engineer (Java/SpringBoot) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-software-engineer-java-springboot-munich-36638)** en Atolls _(2026-04-03)_ - Arbeitnow
+- **[Senior Java Backend Engineer (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-java-backend-engineer-berlin-459329)** en Atolls _(2026-04-03)_ - Arbeitnow
+- **[Senior Java Backend Engineer (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-java-backend-engineer-munich-438969)** en Atolls _(2026-04-03)_ - Arbeitnow
+- **[Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-backend-engineer-typescript-nestjs-nodejs-munich-48303)** en Atolls _(2026-04-03)_ - Arbeitnow
+- **[Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-backend-engineer-typescript-nestjs-nodejs-berlin-91508)** en Atolls _(2026-04-03)_ - Arbeitnow
 - **[Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-backend-engineer-typescript-nestjs-nodejs-munich-257716)** en Atolls _(2026-04-03)_ - Arbeitnow
 - **[Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-backend-engineer-typescript-nestjs-nodejs-berlin-399539)** en Atolls _(2026-04-03)_ - Arbeitnow
 - **[Intermediate Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-intermediate-full-stack-engineer-runn-1130979)** en Runn _(2026-04-02)_ - RemoteOK
@@ -83,11 +89,12 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
+- **[Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)](https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-darmstadt-37780)** en SBC Steuerberater Rechtsanwälte GbR _(2026-04-04)_ - Arbeitnow
+- **[Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)](https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-bad-homburg-315668)** en SBC Steuerberater Rechtsanwälte GbR _(2026-04-04)_ - Arbeitnow
 - **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-62597)** en Lionflence _(2026-04-03)_ - Arbeitnow
 - **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-31091)** en Lionflence _(2026-04-03)_ - Arbeitnow
 - **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-324332)** en Lionflence _(2026-04-03)_ - Arbeitnow
 - **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-264602)** en Lionflence _(2026-04-03)_ - Arbeitnow
-- **[Strategy - Senior](https://www.arbeitnow.com/jobs/companies/eight-advisory-sas/strategy-senior-cologne-353837)** en EIGHT ADVISORY SAS _(2026-04-02)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
