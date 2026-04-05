@@ -21,8 +21,8 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
 | Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x) (4) | Backend (7) |
-| Senior Software Engineer (Java/SpringBoot) (m/f/x) (2) | Typescript (5) |
-| Senior Java Backend Engineer (m/f/x) (2) | Java (5) |
+| Senior Software Engineer (Java/SpringBoot) (m/f/x) (2) | Java (5) |
+| Senior Java Backend Engineer (m/f/x) (2) | Typescript (5) |
 | Analista de Seguridad de la Información Junior (2) | Node (4) |
 | Ejecutivo de Soporte Trainee (2) | Spring (2) |
 
@@ -64,7 +64,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago-bb38)** en GetOnBoard Company _(2026-01-16)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
-- **[Controller (m/w/d) im Öffentlichen Dienst](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/controller-im-offentlichen-dienst-munich-36995)** en MY Humancapital GmbH _(2026-04-03)_ - Arbeitnow
 - **[Senior Payroll Associate Indian Payroll India](https://remoteOK.com/remote-jobs/remote-senior-payroll-associate-indian-payroll-india-deel-1130900)** en Deel _(2026-03-27)_ - RemoteOK
 
 ### Mobile
