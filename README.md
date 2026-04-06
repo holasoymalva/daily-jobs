@@ -20,11 +20,11 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x) (4) | Backend (7) |
 | Senior Software Engineer (Java/SpringBoot) (m/f/x) (2) | Java (5) |
-| Senior Java Backend Engineer (m/f/x) (2) | Typescript (5) |
-| Analista de Seguridad de la Información Junior (2) | Node (4) |
-| Ejecutivo de Soporte Trainee (2) | Spring (2) |
+| Senior Java Backend Engineer (m/f/x) (2) | Backend (5) |
+| Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x) (2) | Typescript (3) |
+| Analista de Seguridad de la Información Junior (2) | Spring (2) |
+| Ejecutivo de Soporte Trainee (2) | Node (2) |
 
 ### Frontend
 
@@ -40,8 +40,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Senior Java Backend Engineer (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-java-backend-engineer-munich-438969)** en Atolls _(2026-04-03)_ - Arbeitnow
 - **[Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-backend-engineer-typescript-nestjs-nodejs-munich-48303)** en Atolls _(2026-04-03)_ - Arbeitnow
 - **[Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-backend-engineer-typescript-nestjs-nodejs-berlin-91508)** en Atolls _(2026-04-03)_ - Arbeitnow
-- **[Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-backend-engineer-typescript-nestjs-nodejs-munich-257716)** en Atolls _(2026-04-03)_ - Arbeitnow
-- **[Senior Backend Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-backend-engineer-typescript-nestjs-nodejs-berlin-399539)** en Atolls _(2026-04-03)_ - Arbeitnow
 - **[Intermediate Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-intermediate-full-stack-engineer-runn-1130979)** en Runn _(2026-04-02)_ - RemoteOK
 - **[Senior Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-runn-1130978)** en Runn _(2026-04-02)_ - RemoteOK
 - **[Senior Developer Backend Search CD+E](https://remoteOK.com/remote-jobs/remote-senior-developer-backend-search-cd-e-ubiminds-1130881)** en Ubiminds _(2026-03-26)_ - RemoteOK
@@ -64,6 +62,10 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago-bb38)** en GetOnBoard Company _(2026-01-16)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
+- **[Junior E-Commerce / Marketing Manager (m/w/x) für wachsende Brand Group in Berlin](https://www.arbeitnow.com/jobs/companies/ts-brand-group/junior-e-commerce-marketing-manager-fur-junge-brand-group-in-berlin-213263)** en TS BRAND GROUP _(2026-04-06)_ - Arbeitnow
+- **[Junior Marketing Manager (m/w/x) für Fitness/Food/Entertainment Brands](https://www.arbeitnow.com/jobs/companies/ts-brand-group/junior-marketing-manager-fur-fitness-food-entertainment-brands-berlin-50476)** en TS BRAND GROUP _(2026-04-06)_ - Arbeitnow
+- **[Junior E-Commerce Manager (m/w/x) für Brands mit Social Impact](https://www.arbeitnow.com/jobs/companies/ts-brand-group/junior-e-commerce-marketing-manager-fur-startups-mit-social-impact-berlin-445426)** en TS BRAND GROUP _(2026-04-06)_ - Arbeitnow
+- **[Junior Sales Manager:in (w/m/d)](https://www.arbeitnow.com/jobs/companies/idalabs-gmbh-co-kg/junior-sales-managerin-kiel-189477)** en IDALABS GmbH & Co. KG _(2026-04-05)_ - Arbeitnow
 - **[Senior Payroll Associate Indian Payroll India](https://remoteOK.com/remote-jobs/remote-senior-payroll-associate-indian-payroll-india-deel-1130900)** en Deel _(2026-03-27)_ - RemoteOK
 
 ### Mobile
@@ -88,12 +90,12 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-santiago)** en GetOnBoard Company _(2025-11-27)_ - GetOnBoard
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-190766)** en Lionflence _(2026-04-06)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-84258)** en Lionflence _(2026-04-06)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-476683)** en Lionflence _(2026-04-06)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-103771)** en Lionflence _(2026-04-06)_ - Arbeitnow
 - **[Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)](https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-darmstadt-37780)** en SBC Steuerberater Rechtsanwälte GbR _(2026-04-04)_ - Arbeitnow
 - **[Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)](https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-bad-homburg-315668)** en SBC Steuerberater Rechtsanwälte GbR _(2026-04-04)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-62597)** en Lionflence _(2026-04-03)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-31091)** en Lionflence _(2026-04-03)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-324332)** en Lionflence _(2026-04-03)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-264602)** en Lionflence _(2026-04-03)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
