@@ -21,13 +21,14 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
 | Analista de Seguridad de la Información Junior (2) | Back-end (1) |
-| Desarrollador Back-end Junior (PHP) (1) | Php (1) |
-| Front-end Developer Junior (1) | Front-end (1) |
-| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Typescript (1) |
-| AI Engineer (1) | Java (1) |
+| Ingeniero Junior (1) | Php (1) |
+| Desarrollador Back-end Junior (PHP) (1) | Front-end (1) |
+| Front-end Developer Junior (1) | Typescript (1) |
+| Desarrollador Full-Stack JavaScript/TypeScript Junior (1) | Javascript (1) |
 
 ### Frontend
 
+- **[Ingeniero Junior](https://www.getonbrd.com/jobs/ingeniero-junior-khipu-remote-e6b1)** en GetOnBoard Company _(2026-04-08)_ - GetOnBoard
 - **[Desarrollador Back-end Junior (PHP)](https://www.getonbrd.com/jobs/desarrollador-backend-junior-php-braif-remote)** en GetOnBoard Company _(2026-04-06)_ - GetOnBoard
 - **[Front-end Developer Junior](https://www.getonbrd.com/jobs/front-end-developer-junior-codeable-remote)** en GetOnBoard Company _(2026-03-31)_ - GetOnBoard
 - **[Desarrollador Full-Stack JavaScript/TypeScript Junior](https://www.getonbrd.com/jobs/desarrollador-full-stack-javascript-typescript-junior-tcit-santiago)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
@@ -35,7 +36,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Junior Project Coordinator](https://remotive.com/remote-jobs/project-management/junior-project-coordinator-2088663)** en C4Media Inc. _(2026-03-24)_ - Remotive
-- **[(Junior) Low-Code Developer & Consultant - CRM & Prozesslösungen (m/w/d)](https://www.arbeitnow.com/jobs/companies/sti-gmbh/junior-low-code-developer-consultant-crm-prozesslosungen-munich-370247)** en STI GmbH _(2026-04-08)_ - Arbeitnow
+- **[Senior front end developer](https://remoteOK.com/remote-jobs/remote-senior-front-end-developer-expatfile-tax-1131019)** en Expatfile.tax _(2026-04-07)_ - RemoteOK
 - **[Intermediate Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-intermediate-full-stack-engineer-runn-1130979)** en Runn _(2026-04-02)_ - RemoteOK
 - **[Senior Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-runn-1130978)** en Runn _(2026-04-02)_ - RemoteOK
 
@@ -49,16 +50,12 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Digital Quality Lead](https://www.getonbrd.com/jobs/digital-quality-lead-signant-health-remote)** en GetOnBoard Company _(2026-03-03)_ - GetOnBoard
 - **[Coordinador(a) Junior de Gobierno de Datos](https://www.getonbrd.com/jobs/coordinador-a-junior-de-gobierno-de-datos-bice-vida-santiago)** en GetOnBoard Company _(2026-02-26)_ - GetOnBoard
 - **[SRE / DevOps Engineer Junior](https://www.getonbrd.com/jobs/sre-devops-engineer-junior-bc-tecnologia-remote)** en GetOnBoard Company _(2026-02-24)_ - GetOnBoard
-- **[Asesor Educativo Comercial Junior](https://www.getonbrd.com/jobs/asesor-educativo-comercial-junior-colectivo23-lima)** en GetOnBoard Company _(2026-02-02)_ - GetOnBoard
+- **[Asesor de Contactabilidad Junior](https://www.getonbrd.com/jobs/asesor-educativo-comercial-junior-colectivo23-lima)** en GetOnBoard Company _(2026-02-02)_ - GetOnBoard
 - **[Jr Sales Executive](https://www.getonbrd.com/jobs/jr-sales-executive-coderslab-io-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-21)_ - GetOnBoard
 - **[Ingeniero(a) Junior de Software y Robótica](https://www.getonbrd.com/jobs/ingeniero-a-junior-de-software-y-robotica-maquintel-robotic-services-santiago)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago-bb38)** en GetOnBoard Company _(2026-01-16)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
-- **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-03-08)_ - Remotive
-- **[Director - Resillience-Service Line (m/w/d) Vollzeit - Hamburg, München oder Frankfurt](https://www.arbeitnow.com/jobs/companies/securenication-gmbh/director-resillience-service-line-vollzeit-hamburg-munchen-oder-frankfurt-257684)** en Securenication GmbH _(2026-04-08)_ - Arbeitnow
-- **[(Junior) Integration Developer / iPaaS Consultant (m/w/d)](https://www.arbeitnow.com/jobs/companies/sti-gmbh/junior-integration-developer-ipaas-consultant-munich-231779)** en STI GmbH _(2026-04-08)_ - Arbeitnow
-- **[Senior Software Engineer - Perception (f/m/d)](https://www.arbeitnow.com/jobs/companies/futurail/senior-software-engineer-perception-munich-332616)** en FUTURAIL _(2026-04-08)_ - Arbeitnow
-- **[Senior Payroll Associate Indian Payroll India](https://remoteOK.com/remote-jobs/remote-senior-payroll-associate-indian-payroll-india-deel-1130900)** en Deel _(2026-03-27)_ - RemoteOK
+- **[Senior Customer Support Agent (m/f/d) - befristet als Mutterschutz-/Elternzeitvertretung](https://www.arbeitnow.com/jobs/companies/7mind-gmbh/senior-customer-support-agent-befristet-als-mutterschutz-elternzeitvertretung-berlin-440594)** en 7Mind GmbH _(2026-04-08)_ - Arbeitnow
 
 ### Mobile
 
@@ -81,10 +78,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
-- **[Trainee Produktdesign (m/w/d) Möbel & Serienprodukte in Berlin](https://www.arbeitnow.com/jobs/companies/mtc-commerce-gmbh/trainee-produktdesign-mobel-serienprodukte-in-berlin-132799)** en mtc commerce GmbH _(2026-04-08)_ - Arbeitnow
-- **[Trainee Controlling / Agrarberatung (m/w/d)](https://www.arbeitnow.com/jobs/companies/claudius-wurth-agrarberatung/trainee-controlling-agrarberatung-offenburg-95466)** en Claudius Wurth Agrarberatung _(2026-04-08)_ - Arbeitnow
-- **[Trainee (m/w/d) Financial Consultant](https://www.arbeitnow.com/jobs/companies/mlp-wirtschaftsberatung/trainee-financial-consultant-bonn-439919)** en MLP Wirtschaftsberatung _(2026-04-08)_ - Arbeitnow
-- **[Trainee (m/w/d) Consulting](https://www.arbeitnow.com/jobs/companies/mlp-wirtschaftsberatung/trainee-consulting-bonn-254024)** en MLP Wirtschaftsberatung _(2026-04-08)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
