@@ -21,10 +21,10 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
 | Analista de Seguridad de la Información Junior (2) | Ruby (1) |
-| Ingeniero Junior (1) | Angular (1) |
-| AI Engineer (1) | Backend (1) |
-| Ruby on Rails Developer (Junior / Semi Senior) (1) | Data (1) |
-| Desarrollador Angular (1) | Data engineer (1) |
+| Sales Development Director (m/f/d) (2) | Angular (1) |
+| Ingeniero Junior (1) | Data engineer (1) |
+| AI Engineer (1) | Data (1) |
+| Ruby on Rails Developer (Junior / Semi Senior) (1) | Machine learning (1) |
 
 ### Frontend
 
@@ -33,8 +33,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
 - **[Junior Project Coordinator](https://remotive.com/remote-jobs/project-management/junior-project-coordinator-2088663)** en C4Media Inc. _(2026-03-24)_ - Remotive
-- **[Erfahrener Backend Entwickler (m/w/d)](https://www.arbeitnow.com/jobs/companies/oros-energy-europe-gmbh/erfahrener-backend-entwickler-konstanz-283043)** en OROS ENERGY Europe GmbH _(2026-04-16)_ - Arbeitnow
-- **[Junior Fullstack Developer (m/w/d)](https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-fullstack-developer-frankfurt-143504)** en ABRIO GmbH _(2026-04-16)_ - Arbeitnow
+- **[Lead AI Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/gocomo-gmbh/lead-ai-engineer-berlin-377854)** en gocomo GmbH _(2026-04-17)_ - Arbeitnow
 - **[Banking Full Stack Software Developer TSCM 43657](https://remoteOK.com/remote-jobs/remote-banking-full-stack-software-developer-tscm-43657-eleks-1131120)** en Eleks _(2026-04-15)_ - RemoteOK
 - **[Staff Software Engineer Full Stack](https://remoteOK.com/remote-jobs/remote-staff-software-engineer-full-stack-ternary-1131066)** en Ternary _(2026-04-10)_ - RemoteOK
 
@@ -53,7 +52,9 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero(a) Junior de Software y Robótica](https://www.getonbrd.com/jobs/ingeniero-a-junior-de-software-y-robotica-maquintel-robotic-services-santiago)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago-bb38)** en GetOnBoard Company _(2026-01-16)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
-- **[(Junior) Portfolio Analyst (m/w/d)](https://www.arbeitnow.com/jobs/companies/opus-one-recruitment-gmbh/junior-portfolio-analyst-munich-195656)** en OPUS ONE Recruitment GmbH _(2026-04-16)_ - Arbeitnow
+- **[(Junior) Online Marketing Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/ardap-care-gmbh/junior-online-marketing-manager-bocholt-9928)** en Ardap Care GmbH _(2026-04-17)_ - Arbeitnow
+- **[Sales Development Director (m/f/d)](https://www.arbeitnow.com/jobs/companies/wellhub/sales-development-director-berlin-425977)** en Wellhub _(2026-04-16)_ - Arbeitnow
+- **[Sales Development Director (m/f/d)](https://www.arbeitnow.com/jobs/companies/wellhub/sales-development-director-munich-244681)** en Wellhub _(2026-04-16)_ - Arbeitnow
 - **[Machine Learning Engineer](https://remoteOK.com/remote-jobs/remote-machine-learning-engineer-radformation-1131082)** en Radformation _(2026-04-11)_ - RemoteOK
 - **[Junior Integration Manager US](https://remoteOK.com/remote-jobs/remote-junior-integration-manager-us-xsolla-1131071)** en Xsolla _(2026-04-10)_ - RemoteOK
 - **[Senior FinCrime Support Analyst](https://remoteOK.com/remote-jobs/remote-senior-fincrime-support-analyst-apron-1131067)** en Apron _(2026-04-10)_ - RemoteOK
@@ -70,6 +71,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 - **[Developer QA – Junior](https://www.getonbrd.com/jobs/developer-qa-junior-ameris-capital-santiago)** en GetOnBoard Company _(2026-04-07)_ - GetOnBoard
 - **[Full-Stack & AI Developer](https://www.getonbrd.com/jobs/full-stack-ai-developer-geniesoft-inc-remote)** en GetOnBoard Company _(2026-04-13)_ - GetOnBoard
+- **[Junior / No-Code Spezialist (m/w/d) Vollzeit oder Teilzeit (n8n,make,zapier)](https://www.arbeitnow.com/jobs/companies/adkochmarketing-gmbh/junior-no-code-spezialist-vollzeit-oder-teilzeit-n8nmakezapier-hamburg-191559)** en AdKochMarketing GmbH _(2026-04-17)_ - Arbeitnow
 
 ### Other
 
@@ -78,11 +80,9 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
-- **[Junior Fachinformatiker (m/w/d) Systemintegration - IT-Support - First und Second Level](https://www.arbeitnow.com/jobs/companies/tecnotron-elektronik-gmbh/junior-fachinformatiker-systemintegration-it-support-first-und-second-level-weissensberg-372768)** en tecnotron elektronik gmbh _(2026-04-16)_ - Arbeitnow
-- **[Junior/Senior Mitarbeiter Verwahrstelle Immobilienfonds](https://www.arbeitnow.com/jobs/companies/opus-one-recruitment-gmbh/junior-senior-mitarbeiter-verwahrstelle-immobilienfonds-munich-228219)** en OPUS ONE Recruitment GmbH _(2026-04-16)_ - Arbeitnow
-- **[(Junior) Presales Consultant](https://www.arbeitnow.com/jobs/companies/hornetsecurity/junior-presales-consultant-hanover-34844)** en Hornetsecurity _(2026-04-16)_ - Arbeitnow
-- **[(Junior) Controller (m/w/d)](https://www.arbeitnow.com/jobs/companies/opus-one-recruitment-gmbh/junior-controller-munich-31595)** en OPUS ONE Recruitment GmbH _(2026-04-16)_ - Arbeitnow
-- **[(Junior) Finance & Payroll Managerin in Teilzeit (m/w/d)](https://www.arbeitnow.com/jobs/companies/cashlink-technologies-gmbh/junior-finance-payroll-managerin-in-teilzeit-frankfurt-am-main-193947)** en Cashlink Technologies GmbH _(2026-04-16)_ - Arbeitnow
+- **[Trainee Social Advertising & Content Creation (m/w/x)](https://www.arbeitnow.com/jobs/companies/lingnercom/trainee-social-advertising-content-creation-heilbronn-338191)** en LINGNER.COM _(2026-04-17)_ - Arbeitnow
+- **[Duales Studium - Wirtschaftswissenschaften](https://www.arbeitnow.com/jobs/companies/horbach-wirtschaftsberatung-gmbh/duales-studium-wirtschaftswissenschaften-stuttgart-383018)** en HORBACH Wirtschaftsberatung GmbH _(2026-04-17)_ - Arbeitnow
+- **[Head of Customer Success & Implementation (f/m/x)](https://www.arbeitnow.com/jobs/companies/workist-gmbh/head-of-customer-success-implementation-berlin-411790)** en Workist GmbH _(2026-04-17)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
