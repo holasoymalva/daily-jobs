@@ -23,8 +23,8 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 | Analista de Seguridad de la Información Junior (2) | Ruby (1) |
 | Desarrollador/a Full-Stack Junior (1) | Angular (1) |
 | Ingeniero Junior (1) | Php (1) |
-| Desarrollador Full-Stack Junior MERN/MEAN (1) | Data engineer (1) |
-| AI Engineer (1) | Data (1) |
+| Desarrollador Full-Stack Junior MERN/MEAN (1) | Data (1) |
+| AI Engineer (1) | Data engineer (1) |
 
 ### Frontend
 
@@ -55,8 +55,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Junior DevOps & Infrastructure Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/reos-gmbh/junior-devops-infrastructure-engineer-hamburg-18283)** en Reos GmbH _(2026-04-17)_ - Arbeitnow
 - **[Junior SEO/GEO Manager im Online-Marketing (m/w/d)](https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/junior-seo-geo-manager-im-online-marketing-berlin-383380)** en SUCHMEISTEREI GmbH _(2026-04-17)_ - Arbeitnow
-- **[Machine Learning Engineer](https://remoteOK.com/remote-jobs/remote-machine-learning-engineer-radformation-1131082)** en Radformation _(2026-04-11)_ - RemoteOK
-- **[Junior Integration Manager US](https://remoteOK.com/remote-jobs/remote-junior-integration-manager-us-xsolla-1131071)** en Xsolla _(2026-04-10)_ - RemoteOK
 
 ### Mobile
 
@@ -79,11 +77,9 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
+- **[Junior Key Account Customer Success Manager - SaaS - B2B (all genders) - Hybrid - Berlin](https://www.arbeitnow.com/jobs/companies/doozer-real-estate-systems-gmbh/junior-key-account-customer-success-manager-saas-b2b-all-genders-hybrid-berlin-316178)** en Doozer Real Estate Systems GmbH _(2026-04-19)_ - Arbeitnow
 - **[Online Marketing (m/w/d)](https://www.arbeitnow.com/jobs/companies/finment-gmbh/online-marketing-berlin-451790)** en FinMent GmbH _(2026-04-17)_ - Arbeitnow
 - **[Junior Online Marketing (m/w/d)](https://www.arbeitnow.com/jobs/companies/finment-gmbh/junior-online-marketing-berlin-431629)** en FinMent GmbH _(2026-04-17)_ - Arbeitnow
-- **[Junior SAP ABAP Developer (m/w/d)](https://www.arbeitnow.com/jobs/companies/pertemps-erp/junior-sap-abap-developer-koblenz-458415)** en Pertemps ERP _(2026-04-17)_ - Arbeitnow
-- **[Junior Recruiter / Absolvent (m/w/d) - Digitale Recruiting Agentur | ca. 42k fix + Bonus](https://www.arbeitnow.com/jobs/companies/grenzganger-headhunting/junior-recruiter-absolvent-digitale-recruiting-agentur-ca-42k-fix-bonus-bielefeld-379950)** en Grenzgänger Headhunting _(2026-04-17)_ - Arbeitnow
-- **[Trainee Social Advertising & Content Creation (m/w/x)](https://www.arbeitnow.com/jobs/companies/lingnercom/trainee-social-advertising-content-creation-heilbronn-338191)** en LINGNER.COM _(2026-04-17)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
