@@ -20,17 +20,16 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| Analista de Seguridad de la Información Junior (2) | Ruby (1) |
-| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Angular (1) |
-| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Data (1) |
-| Desarrollador/a Full-Stack Junior (1) | Data engineer (1) |
-| Ingeniero Junior (1) | Qa (1) |
+| Analista de Seguridad de la Información Junior (2) | Data (2) |
+| Desarrollador/a Full-Stack Junior (1) | Ruby (1) |
+| Ingeniero Junior (1) | Angular (1) |
+| AI Engineer (1) | Data engineer (1) |
+| Ruby on Rails Developer (Junior / Semi Senior) (1) | Data analyst (1) |
 
 ### Frontend
 
 - **[Desarrollador/a Full-Stack Junior](https://www.getonbrd.com/jobs/desarrollador-a-full-stack-junior-btrust-santiago)** en GetOnBoard Company _(2026-04-17)_ - GetOnBoard
 - **[Ingeniero Junior](https://www.getonbrd.com/jobs/ingeniero-junior-khipu-remote-e6b1)** en GetOnBoard Company _(2026-04-08)_ - GetOnBoard
-- **[Desarrollador Full-Stack Junior MERN/MEAN](https://www.getonbrd.com/jobs/desarrollador-fullstack-junior-mern-mean-agilistik-santiago)** en GetOnBoard Company _(2026-04-17)_ - GetOnBoard
 - **[AI Engineer](https://www.getonbrd.com/jobs/senior-ai-engineer-mas-analytics-puerto-montt-santiago-puerto-varas)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
 - **[Desarrollador Angular](https://www.getonbrd.com/jobs/desarrollador-angular-defontana-remote-159e)** en GetOnBoard Company _(2025-09-25)_ - GetOnBoard
@@ -39,6 +38,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 ### Backend
 
+- **[Analista de Ciberseguridad Junior](https://www.getonbrd.com/jobs/analista-de-ciberseguridad-junior-hf-solutions-santiago)** en GetOnBoard Company _(2026-04-20)_ - GetOnBoard
 - **[Data Engineer Senior](https://www.getonbrd.com/jobs/data-engineer-senior-grupo-mariposa-remote-ba30)** en GetOnBoard Company _(2026-04-15)_ - GetOnBoard
 - **[Product Owner Junior](https://www.getonbrd.com/jobs/product-owner-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2026-04-15)_ - GetOnBoard
 - **[Analista de Proyectos TI y Automatización](https://www.getonbrd.com/jobs/analista-de-proyectos-ti-y-automatizacion-tcit-santiago)** en GetOnBoard Company _(2026-03-30)_ - GetOnBoard
@@ -52,13 +52,13 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero(a) Junior de Software y Robótica](https://www.getonbrd.com/jobs/ingeniero-a-junior-de-software-y-robotica-maquintel-robotic-services-santiago)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago-bb38)** en GetOnBoard Company _(2026-01-16)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
-- **[Freelance Junior Software Developer (m/f/d)](https://www.arbeitnow.com/jobs/companies/beyobie/freelance-junior-software-developer-berlin-231901)** en beyobie _(2026-04-20)_ - Arbeitnow
-- **[Junior Controlling & Compliance Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/sevest/junior-controlling-compliance-manager-munich-179172)** en SEVEST _(2026-04-20)_ - Arbeitnow
+- **[EBay Account Manager / Junior E-Commerce Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/solarscouts/ebay-account-manager-junior-e-commerce-manager-troisdorf-90901)** en Solarscouts _(2026-04-20)_ - Arbeitnow
+- **[Data Analyst](https://remoteOK.com/remote-jobs/remote-data-analyst-criptoro-1131219)** en Criptoro _(2026-04-19)_ - RemoteOK
 
 ### Mobile
 
 - **[Salesforce Technical Consultant (Field Service)](https://www.getonbrd.com/jobs/salesforce-technical-consultant-field-service-niuro-remote)** en GetOnBoard Company _(2026-03-26)_ - GetOnBoard
-- **[Junior Product Manager | Students Experience (m/w/d)](https://www.arbeitnow.com/jobs/companies/digitale-leute-school/junior-product-manager-students-experience-berlin-290644)** en Digitale Leute School _(2026-04-20)_ - Arbeitnow
+- **[Junior Kosmetiker:in (m/w/d) mit Schwerpunkt Gesichtsbehandlungen](https://www.arbeitnow.com/jobs/companies/c1-kosmetik-gmbh/junior-kosmetikerin-mit-schwerpunkt-gesichtsbehandlungen-munich-303580)** en C1 Kosmetik GmbH _(2026-04-21)_ - Arbeitnow
 
 ### Data
 
@@ -76,10 +76,9 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-89239)** en Lionflence _(2026-04-20)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-41653)** en Lionflence _(2026-04-20)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-312141)** en Lionflence _(2026-04-20)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-414850)** en Lionflence _(2026-04-20)_ - Arbeitnow
+- **[PR-Trainee Beauty (m/w/d)](https://www.arbeitnow.com/jobs/companies/haebmau-ag/pr-trainee-beauty-munich-62140)** en haebmau AG _(2026-04-21)_ - Arbeitnow
+- **[Trainee/ Junior-Projektmanager Qualität und Kommunikation (m/w/d)](https://www.arbeitnow.com/jobs/companies/interact-tele-service-ag/trainee-junior-projektmanager-qualitat-und-kommunikation-stralsund-31517)** en INTERACT TELE SERVICE AG _(2026-04-21)_ - Arbeitnow
+- **[Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)](https://www.arbeitnow.com/jobs/companies/kevin-kehr/werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-486086)** en Kevin Kehr _(2026-04-20)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
