@@ -77,6 +77,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
+- **[Financial Accountant (m/w/d) - Junior oder Senior - bis ca. 65.000 € Jahresgehalt](https://www.arbeitnow.com/jobs/companies/qtalents-real-estate-recruiting/financial-accountant-junior-oder-senior-bis-ca-65000-eur-jahresgehalt-hamburg-10295)** en QTalents - Real Estate Recruiting _(2026-04-25)_ - Arbeitnow
 - **[Junior PR Manager (m/w/d) – Remote oder Berlin](https://www.arbeitnow.com/jobs/companies/getpress/junior-pr-manager-remote-oder-berlin-193557)** en getpress _(2026-04-24)_ - Arbeitnow
 
 <!-- JOBS_END -->
