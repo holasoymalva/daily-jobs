@@ -22,9 +22,9 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 |:---|:---|
 | AI Engineer (2) | Front-end (1) |
 | Analista de Seguridad de la Información Junior (2) | Ruby (1) |
-| Trainee (m/w/d) Consulting (2) | Automation (1) |
-| Junior Front-end Engineer (1) | Python (1) |
-| Ingeniero Junior (1) | Backend (1) |
+| Junior Front-end Engineer (1) | Frontend (1) |
+| Ingeniero Junior (1) | Qa (1) |
+| Ruby on Rails Developer (Junior / Semi Senior) (1) | - |
 
 ### Frontend
 
@@ -32,11 +32,9 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Junior](https://www.getonbrd.com/jobs/ingeniero-junior-khipu-remote-e6b1)** en GetOnBoard Company _(2026-04-08)_ - GetOnBoard
 - **[AI Engineer](https://www.getonbrd.com/jobs/senior-ai-engineer-mas-analytics-puerto-montt-santiago-puerto-varas)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
-- **[(Junior) Fullstack Developer (m/w/d)](https://www.arbeitnow.com/jobs/companies/dsb-deutsche-sanierungsberatung-gmbh/junior-fullstack-developer-berlin-9369)** en dsb Deutsche Sanierungsberatung GmbH _(2026-04-28)_ - Arbeitnow
-- **[Senior Backend Engineer (Python / Azure) - Schnittstellen & Lagerautomation](https://www.arbeitnow.com/jobs/companies/altruan-gmbh/senior-backend-engineer-python-azure-schnittstellen-lagerautomation-massing-139183)** en Altruan GmbH _(2026-04-28)_ - Arbeitnow
+- **[Engineer Software](https://remoteOK.com/remote-jobs/remote-engineer-software-calabrio-1131345)** en Calabrio _(2026-04-27)_ - RemoteOK
 - **[Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-finalis-1131328)** en Finalis _(2026-04-26)_ - RemoteOK
 - **[Senior App &amp; Frontend Developer AS233](https://remoteOK.com/remote-jobs/remote-senior-app-amp-frontend-developer-as233-smart-working-solutions-1131268)** en Smart Working Solutions _(2026-04-22)_ - RemoteOK
-- **[Senior Product Manager Applied AI](https://remoteOK.com/remote-jobs/remote-senior-product-manager-applied-ai-smartsheet-1131233)** en Smartsheet _(2026-04-21)_ - RemoteOK
 
 ### Backend
 
@@ -55,16 +53,12 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago-bb38)** en GetOnBoard Company _(2026-01-16)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958)** en Dry Ground AI _(2026-04-21)_ - Remotive
-- **[Werkstudent:in (m/w/d) Digital Marketing & Performance Advertising](https://www.arbeitnow.com/jobs/companies/luna-park-gmbh-digital-marketing-agentur/werkstudentin-digital-marketing-performance-advertising-cologne-82530)** en luna-park GmbH - Digital Marketing Agentur _(2026-04-28)_ - Arbeitnow
-- **[Junior Performance Marketing Manager (all genders)](https://www.arbeitnow.com/jobs/companies/glow25-by-primal-state-performance-gmbh/junior-performance-marketing-manager-all-genders-berlin-155983)** en Glow25 (by Primal State Performance GmbH) _(2026-04-28)_ - Arbeitnow
-- **[Junior Art Director (all genders)](https://www.arbeitnow.com/jobs/companies/adbaker/junior-art-director-all-genders-cologne-308400)** en ADBAKER _(2026-04-27)_ - Arbeitnow
-- **[(Junior) Creative Designer - Statics (all genders)](https://www.arbeitnow.com/jobs/companies/adbaker/junior-creative-designer-statics-all-genders-cologne-239419)** en ADBAKER _(2026-04-27)_ - Arbeitnow
-- **[Head of Government Sales](https://www.arbeitnow.com/jobs/companies/24industries/head-of-government-sales-munich-315796)** en 24Industries _(2026-04-28)_ - Arbeitnow
-- **[Data Analyst](https://remoteOK.com/remote-jobs/remote-data-analyst-criptoro-1131219)** en Criptoro _(2026-04-19)_ - RemoteOK
+- **[Junior Consultant (m/w/d) Digitalisierung im HR / Personal](https://www.arbeitnow.com/jobs/companies/9tothrive-gmbh/junior-consultant-digitalisierung-im-hr-personal-traunreut-136161)** en 9toThrive GmbH _(2026-04-28)_ - Arbeitnow
 
 ### Mobile
 
 - **[Salesforce Technical Consultant (Field Service)](https://www.getonbrd.com/jobs/salesforce-technical-consultant-field-service-niuro-remote)** en GetOnBoard Company _(2026-03-26)_ - GetOnBoard
+- **[Junior IT Systemadministrator (m/w/d) - Interne IT & Infrastruktur](https://www.arbeitnow.com/jobs/companies/merentis-gmbh/junior-it-systemadministrator-interne-it-infrastruktur-bremen-484657)** en MERENTIS GmbH _(2026-04-29)_ - Arbeitnow
 
 ### Data
 
@@ -82,9 +76,10 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-03-04)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
-- **[Junior Projektmanager (m/w/d) / POS-Erfahrung & Handels-Experience von Vorteil](https://www.arbeitnow.com/jobs/companies/revo-gmbh/junior-projektmanager-pos-erfahrung-handels-experience-von-vorteil-cologne-308333)** en REVO GmbH _(2026-04-28)_ - Arbeitnow
-- **[Trainee (m/w/d) Consulting](https://www.arbeitnow.com/jobs/companies/mlp-wirtschaftsberatung/trainee-consulting-cologne-337476)** en MLP Wirtschaftsberatung _(2026-04-28)_ - Arbeitnow
-- **[Trainee (m/w/d) Consulting](https://www.arbeitnow.com/jobs/companies/mlp-wirtschaftsberatung/trainee-consulting-bonn-449887)** en MLP Wirtschaftsberatung _(2026-04-28)_ - Arbeitnow
+- **[(Junior) Marketing Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/santos-grills-gmbh/junior-marketing-manager-cologne-443907)** en Santos Grills GmbH _(2026-04-29)_ - Arbeitnow
+- **[Nachwuchsführungskraft / Junior Manager (m/w/d) im Versicherungswesen](https://www.arbeitnow.com/jobs/companies/bavaria-wirtschafts-und-informationsdienst-gmbh/nachwuchsfuhrungskraft-junior-manager-im-versicherungswesen-buxheim-98776)** en Bavaria Wirtschafts- und Informationsdienst GmbH _(2026-04-29)_ - Arbeitnow
+- **[Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)](https://www.arbeitnow.com/jobs/companies/kevin-kehr/werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-146298)** en Kevin Kehr _(2026-04-29)_ - Arbeitnow
+- **[Junior 2D Designer (m/w/d) – mit Lust auf Motion & Live](https://www.arbeitnow.com/jobs/companies/cbe-digiden-ag/junior-2d-designer-mit-lust-auf-motion-live-berlin-412651)** en CBE DIGIDEN AG _(2026-04-28)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
