@@ -51,11 +51,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago-bb38)** en GetOnBoard Company _(2026-01-16)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958)** en Dry Ground AI _(2026-04-21)_ - Remotive
-- **[Junior Social Media Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/knsk/junior-social-media-manager-hamburg-312448)** en KNSK _(2026-04-30)_ - Arbeitnow
-- **[Junior IT-Systemadministrator (w/m/d) - inhouse - German C1+](https://www.arbeitnow.com/jobs/companies/trigon-gruppe-gmbh/junior-it-systemadministrator-inhouse-german-c1-berlin-412855)** en Trigon Gruppe GmbH _(2026-04-30)_ - Arbeitnow
-- **[(Junior) COO Associate](https://www.arbeitnow.com/jobs/companies/everphone-gmbh/junior-coo-associate-berlin-154598)** en everphone GmbH _(2026-04-30)_ - Arbeitnow
-- **[(Junior) Performance Marketing Manager - Paid Social & Video (m/w/d)](https://www.arbeitnow.com/jobs/companies/digital-trendteam/junior-performance-marketing-manager-paid-social-video-mainz-454612)** en Digital Trendteam _(2026-04-30)_ - Arbeitnow
-- **[(Junior) SEO / SEA Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/digital-trendteam/junior-seo-sea-manager-mainz-374616)** en Digital Trendteam _(2026-04-30)_ - Arbeitnow
 - **[Legal Data Analyst Junior Vaga Afirmativa para PCD](https://remoteOK.com/remote-jobs/remote-legal-data-analyst-junior-vaga-afirmativa-para-pcd-jusbrasil-1131393)** en Jusbrasil _(2026-04-30)_ - RemoteOK
 - **[Lite Controller Pathfinder Hospitality](https://remoteOK.com/remote-jobs/remote-lite-controller-pathfinder-hospitality-pathfinder-hospitality-1131385)** en Pathfinder Hospitality _(2026-04-29)_ - RemoteOK
 
@@ -68,7 +63,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 - **[SAP Fico Functional Consultant](https://www.getonbrd.com/jobs/sap-fico-functional-consultant-crest-it-resources-llc-remote)** en GetOnBoard Company _(2026-04-29)_ - GetOnBoard
 - **[Soporte Operativo Junior](https://www.getonbrd.com/jobs/soporte-operativo-junior-bc-tecnologia-remote)** en GetOnBoard Company _(2026-03-31)_ - GetOnBoard
-- **[Junior-Projektmanager (m/w/d) gesucht!](https://www.arbeitnow.com/jobs/companies/talenthafen-gmbh/junior-projektmanager-gesucht-hamburg-358001)** en talenthafen GmbH _(2026-04-30)_ - Arbeitnow
+- **[Entry Level Crypto Market Specialist](https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-infiniti-group-1131416)** en Infiniti Group _(2026-05-01)_ - RemoteOK
 
 ### QA
 
@@ -86,10 +81,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-492326)** en Lionflence _(2026-05-01)_ - Arbeitnow
 - **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-281215)** en Lionflence _(2026-05-01)_ - Arbeitnow
 - **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-229423)** en Lionflence _(2026-05-01)_ - Arbeitnow
-- **[Junior Consultant Digitized Processes](https://www.arbeitnow.com/jobs/companies/promatis-software-gmbh/junior-consultant-digitized-processes-munster-40908)** en PROMATIS software GmbH _(2026-04-30)_ - Arbeitnow
-- **[Duales Studium - Wirtschaftswissenschaften](https://www.arbeitnow.com/jobs/companies/horbach-wirtschaftsberatung-gmbh/duales-studium-wirtschaftswissenschaften-stuttgart-499356)** en HORBACH Wirtschaftsberatung GmbH _(2026-04-30)_ - Arbeitnow
-- **[Trainee Developer / Programmierer für KI-Agenten (m/w/d)](https://www.arbeitnow.com/jobs/companies/dcf-verlag-gmbh/trainee-developer-programmierer-fur-ki-agenten-koblenz-162628)** en DCF Verlag GmbH _(2026-04-30)_ - Arbeitnow
-- **[Junior Accountant/Buchhalter (m/w/d)](https://www.arbeitnow.com/jobs/companies/matchwave/junior-accountant-buchhalter-berlin-85391)** en MatchWave _(2026-04-30)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
