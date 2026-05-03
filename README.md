@@ -22,9 +22,9 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 |:---|:---|
 | AI Engineer (2) | Front-end (1) |
 | Analista de Seguridad de la Información Junior (2) | Ruby (1) |
-| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Data (1) |
-| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Data analyst (1) |
-| Junior Front-end Engineer (1) | Qa (1) |
+| Junior Front-end Engineer (1) | Data (1) |
+| Ingeniero Junior (1) | Data analyst (1) |
+| Ruby on Rails Developer (Junior / Semi Senior) (1) | Qa (1) |
 
 ### Frontend
 
@@ -51,6 +51,9 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago-bb38)** en GetOnBoard Company _(2026-01-16)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958)** en Dry Ground AI _(2026-04-21)_ - Remotive
+- **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-04-13)_ - Remotive
+- **[E-Commerce Support Marketing Manager Amazon/Shop (m/w/d) Minijob](https://www.arbeitnow.com/jobs/companies/thiru-gmbh/e-commerce-support-marketing-manager-amazon-shop-minijob-olpe-221082)** en Thiru GmbH _(2026-05-03)_ - Arbeitnow
+- **[Junior E-Commerce Marketing Manager Amazon/Shop (m/w/d) Minijob Basis](https://www.arbeitnow.com/jobs/companies/thiru-gmbh/junior-e-commerce-marketing-manager-amazon-shop-minijob-basis-olpe-436384)** en Thiru GmbH _(2026-05-02)_ - Arbeitnow
 - **[Legal Data Analyst Junior Vaga Afirmativa para PCD](https://remoteOK.com/remote-jobs/remote-legal-data-analyst-junior-vaga-afirmativa-para-pcd-jusbrasil-1131393)** en Jusbrasil _(2026-04-30)_ - RemoteOK
 - **[Lite Controller Pathfinder Hospitality](https://remoteOK.com/remote-jobs/remote-lite-controller-pathfinder-hospitality-pathfinder-hospitality-1131385)** en Pathfinder Hospitality _(2026-04-29)_ - RemoteOK
 
@@ -72,15 +75,15 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 ### Other
 
 - **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-04-29)_ - GetOnBoard
+- **[Commercial & Technical Pre Sales Associate](https://www.getonbrd.com/jobs/commercial-technical-pre-sales-associate-solvia-analytics-remote)** en GetOnBoard Company _(2026-05-03)_ - GetOnBoard
 - **[Auxiliar de Operaciones Jr](https://www.getonbrd.com/jobs/auxiliar-de-operaciones-jr-coderslab-io-lima)** en GetOnBoard Company _(2026-04-17)_ - GetOnBoard
 - **[Junior Network Engineer (Presencial)](https://www.getonbrd.com/jobs/networking-presencial-bc-tecnologia-santiago)** en GetOnBoard Company _(2026-04-02)_ - GetOnBoard
 - **[Ejecutiva de Cuenta Marketing Junior](https://www.getonbrd.com/jobs/ejecutiva-de-cuenta-match-agencia-consultora-remote)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
+- **[(Junior) Associate to the CEO – Strategy & Growth (m/w/d)](https://www.arbeitnow.com/jobs/companies/hiserv-gmbh/junior-associate-to-the-ceo-strategy-growth-schonefeld-229799)** en HiSERV GmbH _(2026-05-03)_ - Arbeitnow
 - **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-325654)** en Lionflence _(2026-05-01)_ - Arbeitnow
 - **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-492326)** en Lionflence _(2026-05-01)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-281215)** en Lionflence _(2026-05-01)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-229423)** en Lionflence _(2026-05-01)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
