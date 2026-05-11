@@ -20,21 +20,18 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| AI Engineer (2) | Front-end (1) |
-| Analista de Seguridad de la Información Junior (2) | Ruby (1) |
-| Desarrollador Junior (1) | Automation (1) |
-| Junior Front-end Engineer (1) | Typescript (1) |
-| Ingeniero Junior (1) | Node (1) |
+| AI Engineer (2) | Ruby (1) |
+| Analista de Seguridad de la Información Junior (2) | Data (1) |
+| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Data engineer (1) |
+| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Machine learning (1) |
+| Desarrollador Junior (1) | Qa (1) |
 
 ### Frontend
 
 - **[Desarrollador Junior](https://www.getonbrd.com/jobs/desarrollador-junior-vti-uchile-santiago-8a40)** en GetOnBoard Company _(2026-05-07)_ - GetOnBoard
-- **[Junior Front-end Engineer](https://www.getonbrd.com/jobs/junior-frontend-engineer-krunchbox-santiago)** en GetOnBoard Company _(2026-04-22)_ - GetOnBoard
 - **[Ingeniero Junior](https://www.getonbrd.com/jobs/ingeniero-junior-khipu-remote-e6b1)** en GetOnBoard Company _(2026-04-08)_ - GetOnBoard
 - **[AI Engineer](https://www.getonbrd.com/jobs/senior-ai-engineer-mas-analytics-puerto-montt-santiago-puerto-varas)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
-- **[Junior Business Automation Manager (m/w/d) – Schwerpunkt KI & Prozessoptimierung](https://www.arbeitnow.com/jobs/companies/sportstech-brands-holding-gmbh/junior-business-automation-manager-schwerpunkt-ki-prozessoptimierung-berlin-440183)** en Sportstech Brands Holding GmbH _(2026-05-09)_ - Arbeitnow
-- **[Senior Software Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-software-engineer-typescript-nestjs-nodejs-berlin-82074)** en Atolls _(2026-05-08)_ - Arbeitnow
 - **[Lead Software Engineer](https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529)** en CSC Generation _(2026-05-09)_ - RemoteOK
 - **[Junior Mid Full Stack Software Engineer](https://remoteOK.com/remote-jobs/remote-junior-mid-full-stack-software-engineer-black-canyon-consulting-1131437)** en Black Canyon Consulting _(2026-05-03)_ - RemoteOK
 
@@ -57,8 +54,9 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero(a) Junior de Software y Robótica](https://www.getonbrd.com/jobs/ingeniero-a-junior-de-software-y-robotica-maquintel-robotic-services-santiago)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago-bb38)** en GetOnBoard Company _(2026-01-16)_ - GetOnBoard
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
+- **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-05-08)_ - Remotive
 - **[AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958)** en Dry Ground AI _(2026-04-21)_ - Remotive
-- **[Junior Consultant Operational AI / AI Engineering (m/w/d)](https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/junior-consultant-operational-ai-ai-engineering-ampfing-363384)** en Neurawork GmbH & Co. KG _(2026-05-09)_ - Arbeitnow
+- **[Junior Consultant DevOps & Cloud Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/xaas/junior-consultant-devops-cloud-engineer-hamburg-498340)** en XAAS _(2026-05-11)_ - Arbeitnow
 - **[Manager Collections &amp; Recoveries](https://remoteOK.com/remote-jobs/remote-manager-collections-amp-recoveries-forbright-bank-1131526)** en Forbright Bank _(2026-05-09)_ - RemoteOK
 - **[UI Developer](https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1131473)** en RainFocus _(2026-05-05)_ - RemoteOK
 
@@ -70,6 +68,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 - **[SAP Fico Functional Consultant](https://www.getonbrd.com/jobs/sap-fico-functional-consultant-crest-it-resources-llc-remote)** en GetOnBoard Company _(2026-04-29)_ - GetOnBoard
 - **[Soporte Operativo Junior](https://www.getonbrd.com/jobs/soporte-operativo-junior-bc-tecnologia-remote)** en GetOnBoard Company _(2026-03-31)_ - GetOnBoard
+- **[Online Hospitality Services Coordinator Entry Level](https://remoteOK.com/remote-jobs/remote-online-hospitality-services-coordinator-entry-level-aisles-amp-abroad-1131534)** en Aisles &amp; Abroad _(2026-05-10)_ - RemoteOK
 
 ### QA
 
@@ -83,8 +82,13 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ejecutiva de Cuenta Marketing Junior](https://www.getonbrd.com/jobs/ejecutiva-de-cuenta-match-agencia-consultora-remote)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
-- **[ART DIRECTOR / SENIOR ART DIRECTOR (M/W/D)](https://www.arbeitnow.com/jobs/companies/dyadic-gmbh/art-director-senior-art-director-furth-428204)** en DYADIC GmbH _(2026-05-09)_ - Arbeitnow
-- **[(Junior) HR Manager (m/w/d) - Schwerpunkt Recruiting](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/junior-hr-manager-schwerpunkt-recruiting-munich-125313)** en MY Humancapital GmbH _(2026-05-08)_ - Arbeitnow
+- **[Werkstudent Vertrieb / Finanzberatung (m/w/d) – Praxis statt Theorie](https://www.arbeitnow.com/jobs/companies/shereen-patzelt/werkstudent-vertrieb-finanzberatung-praxis-statt-theorie-chemnitz-3388)** en Shereen Patzelt _(2026-05-11)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-135784)** en Lionflence _(2026-05-11)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-24602)** en Lionflence _(2026-05-11)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-499156)** en Lionflence _(2026-05-11)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-244025)** en Lionflence _(2026-05-11)_ - Arbeitnow
+- **[Junior Consultant (all genders) – Personalbeschaffung/ANÜ](https://www.arbeitnow.com/jobs/companies/bredehorst-clinical-medical-management/junior-consultant-all-genders-personalbeschaffung-anu-dusseldorf-276485)** en Bredehorst Clinical Medical Management _(2026-05-11)_ - Arbeitnow
+- **[Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)](https://www.arbeitnow.com/jobs/companies/kevin-kehr/werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-244504)** en Kevin Kehr _(2026-05-11)_ - Arbeitnow
 - **[Customer Service Representative Hotel Reservations Entry Level](https://remoteOK.com/remote-jobs/remote-customer-service-representative-hotel-reservations-entry-level-aisles-amp-abroad-1131496)** en Aisles &amp; Abroad _(2026-05-07)_ - RemoteOK
 
 <!-- JOBS_END -->
