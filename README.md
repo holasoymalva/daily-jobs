@@ -21,10 +21,10 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
 | AI Engineer (2) | Ruby (1) |
-| Analista de Seguridad de la Información Junior (2) | Data (1) |
-| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Data engineer (1) |
-| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Machine learning (1) |
-| Desarrollador Junior (1) | Qa (1) |
+| Analista de Seguridad de la Información Junior (2) | Data engineer (1) |
+| Desarrollador Junior (1) | Data (1) |
+| Ingeniero Junior (1) | Machine learning (1) |
+| Ruby on Rails Developer (Junior / Semi Senior) (1) | Qa (1) |
 
 ### Frontend
 
@@ -32,6 +32,8 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Junior](https://www.getonbrd.com/jobs/ingeniero-junior-khipu-remote-e6b1)** en GetOnBoard Company _(2026-04-08)_ - GetOnBoard
 - **[AI Engineer](https://www.getonbrd.com/jobs/senior-ai-engineer-mas-analytics-puerto-montt-santiago-puerto-varas)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
+- **[(Junior) SEO - Manager:in - GEO Spezialisiert (w/m/d)](https://www.arbeitnow.com/jobs/companies/netshake-gmbh/junior-seo-managerin-geo-spezialisiert-stuttgart-213782)** en NETSHAKE GmbH _(2026-05-12)_ - Arbeitnow
+- **[(Junior) Kauffrau / Kaufmann im E-Commerce (w/m/d)](https://www.arbeitnow.com/jobs/companies/netshake-gmbh/junior-kauffrau-kaufmann-im-e-commerce-stuttgart-198901)** en NETSHAKE GmbH _(2026-05-12)_ - Arbeitnow
 - **[Lead Software Engineer](https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529)** en CSC Generation _(2026-05-09)_ - RemoteOK
 - **[Junior Mid Full Stack Software Engineer](https://remoteOK.com/remote-jobs/remote-junior-mid-full-stack-software-engineer-black-canyon-consulting-1131437)** en Black Canyon Consulting _(2026-05-03)_ - RemoteOK
 
@@ -56,7 +58,8 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-05-08)_ - Remotive
 - **[AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958)** en Dry Ground AI _(2026-04-21)_ - Remotive
-- **[Junior Consultant DevOps & Cloud Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/xaas/junior-consultant-devops-cloud-engineer-hamburg-498340)** en XAAS _(2026-05-11)_ - Arbeitnow
+- **[Junior oder Mid-Level Media Buyer (m/w/d) Meta & Google](https://www.arbeitnow.com/jobs/companies/strehlow-media-gmbh/junior-oder-mid-level-media-buyer-meta-google-kiel-98146)** en Strehlow Media GmbH _(2026-05-12)_ - Arbeitnow
+- **[Junior oder Mid-Level Performance Marketing Manager (m/w/d) Meta & Google](https://www.arbeitnow.com/jobs/companies/strehlow-media-gmbh/junior-oder-mid-level-performance-marketing-manager-meta-google-kiel-23464)** en Strehlow Media GmbH _(2026-05-12)_ - Arbeitnow
 - **[Manager Collections &amp; Recoveries](https://remoteOK.com/remote-jobs/remote-manager-collections-amp-recoveries-forbright-bank-1131526)** en Forbright Bank _(2026-05-09)_ - RemoteOK
 - **[UI Developer](https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1131473)** en RainFocus _(2026-05-05)_ - RemoteOK
 
@@ -82,13 +85,10 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ejecutiva de Cuenta Marketing Junior](https://www.getonbrd.com/jobs/ejecutiva-de-cuenta-match-agencia-consultora-remote)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
-- **[Werkstudent Vertrieb / Finanzberatung (m/w/d) – Praxis statt Theorie](https://www.arbeitnow.com/jobs/companies/shereen-patzelt/werkstudent-vertrieb-finanzberatung-praxis-statt-theorie-chemnitz-3388)** en Shereen Patzelt _(2026-05-11)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-135784)** en Lionflence _(2026-05-11)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-24602)** en Lionflence _(2026-05-11)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-499156)** en Lionflence _(2026-05-11)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-244025)** en Lionflence _(2026-05-11)_ - Arbeitnow
-- **[Junior Consultant (all genders) – Personalbeschaffung/ANÜ](https://www.arbeitnow.com/jobs/companies/bredehorst-clinical-medical-management/junior-consultant-all-genders-personalbeschaffung-anu-dusseldorf-276485)** en Bredehorst Clinical Medical Management _(2026-05-11)_ - Arbeitnow
-- **[Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)](https://www.arbeitnow.com/jobs/companies/kevin-kehr/werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-244504)** en Kevin Kehr _(2026-05-11)_ - Arbeitnow
+- **[(Junior) Solution Consultant HubSpot (all genders)](https://www.arbeitnow.com/jobs/companies/open-digital-experience/junior-solution-consultant-hubspot-all-genders-kassel-373127)** en OPEN Digital Experience _(2026-05-12)_ - Arbeitnow
+- **[Teamleitung Buchhaltung | Start Up](https://www.arbeitnow.com/jobs/companies/matera-gmbh/teamleitung-buchhaltung-start-up-berlin-354845)** en Matera GmbH _(2026-05-12)_ - Arbeitnow
+- **[Traineeship Projektmanagement (m/w/d) für Hamburg](https://www.arbeitnow.com/jobs/companies/we-do-communication-gmbh-gwa/traineeship-projektmanagement-fur-hamburg-143321)** en WE DO communication GmbH GWA _(2026-05-12)_ - Arbeitnow
+- **[Junior Produktmanager (m/w/d)](https://www.arbeitnow.com/jobs/companies/schomburg-gmbh-co-kg/junior-produktmanager-detmold-110291)** en Schomburg GmbH & Co. KG _(2026-05-12)_ - Arbeitnow
 - **[Customer Service Representative Hotel Reservations Entry Level](https://remoteOK.com/remote-jobs/remote-customer-service-representative-hotel-reservations-entry-level-aisles-amp-abroad-1131496)** en Aisles &amp; Abroad _(2026-05-07)_ - RemoteOK
 
 <!-- JOBS_END -->
