@@ -23,12 +23,11 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 | AI Engineer (2) | Ruby (1) |
 | Business Analyst Junior (2) | Data engineer (1) |
 | Analista de Seguridad de la Información Junior (2) | Data (1) |
-| Desarrollador Junior (1) | Machine learning (1) |
-| Ingeniero Junior (1) | Qa (1) |
+| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Machine learning (1) |
+| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Qa (1) |
 
 ### Frontend
 
-- **[Desarrollador Junior](https://www.getonbrd.com/jobs/desarrollador-junior-vti-uchile-santiago-8a40)** en GetOnBoard Company _(2026-05-07)_ - GetOnBoard
 - **[Ingeniero Junior](https://www.getonbrd.com/jobs/ingeniero-junior-khipu-remote-e6b1)** en GetOnBoard Company _(2026-04-08)_ - GetOnBoard
 - **[AI Engineer](https://www.getonbrd.com/jobs/senior-ai-engineer-mas-analytics-puerto-montt-santiago-puerto-varas)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
@@ -55,16 +54,13 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-05-08)_ - Remotive
 - **[AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958)** en Dry Ground AI _(2026-04-21)_ - Remotive
-- **[Junior IT-Systemadministrator (w/m/d) - inhouse - German C1+](https://www.arbeitnow.com/jobs/companies/trigon-gruppe-gmbh/junior-it-systemadministrator-inhouse-german-c1-berlin-388670)** en Trigon Gruppe GmbH _(2026-05-13)_ - Arbeitnow
-- **[Junior SEA Manager im Online-Marketing (m/w/d) in Berlin](https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/junior-sea-manager-im-online-marketing-in-berlin-85078)** en SUCHMEISTEREI GmbH _(2026-05-13)_ - Arbeitnow
-- **[Junior Personalberater (m/f/d) - Düsseldorf](https://www.arbeitnow.com/jobs/companies/talentfluss/junior-personalberater-dusseldorf-202247)** en talentfluss _(2026-05-13)_ - Arbeitnow
+- **[Senior Medical Editor](https://remoteOK.com/remote-jobs/remote-senior-medical-editor-omnicom-health-1131571)** en Omnicom Health _(2026-05-13)_ - RemoteOK
 - **[Manager Collections &amp; Recoveries](https://remoteOK.com/remote-jobs/remote-manager-collections-amp-recoveries-forbright-bank-1131526)** en Forbright Bank _(2026-05-09)_ - RemoteOK
 - **[UI Developer](https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1131473)** en RainFocus _(2026-05-05)_ - RemoteOK
 
 ### Mobile
 
 - **[DevOps Junior (Latam )](https://www.getonbrd.com/jobs/devops-jr-remoto-latam-i2b-technologies-remote)** en GetOnBoard Company _(2026-04-28)_ - GetOnBoard
-- **[Amazon Advertising Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/adsmasters-gmbh/amazon-advertising-manager-dusseldorf-194406)** en Adsmasters GmbH _(2026-05-13)_ - Arbeitnow
 
 ### Data
 
@@ -85,10 +81,11 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ejecutiva de Cuenta Marketing Junior](https://www.getonbrd.com/jobs/ejecutiva-de-cuenta-match-agencia-consultora-remote)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
-- **[Werkstudent Vertrieb / Finanzberatung (m/w/d) – Praxis statt Theorie](https://www.arbeitnow.com/jobs/companies/shereen-patzelt/werkstudent-vertrieb-finanzberatung-praxis-statt-theorie-chemnitz-29242)** en Shereen Patzelt _(2026-05-13)_ - Arbeitnow
-- **[PR Manager (m/w/d) – Remote oder Berlin](https://www.arbeitnow.com/jobs/companies/getpress/pr-manager-remote-oder-berlin-175658)** en getpress _(2026-05-13)_ - Arbeitnow
-- **[(Junior) Content & AI Creative (m/w/d)](https://www.arbeitnow.com/jobs/companies/lowenzahn-organics-gmbh/junior-content-ai-creative-mainz-433349)** en Löwenzahn Organics GmbH _(2026-05-13)_ - Arbeitnow
-- **[Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)](https://www.arbeitnow.com/jobs/companies/kevin-kehr/werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-471393)** en Kevin Kehr _(2026-05-13)_ - Arbeitnow
+- **[Trainee M&A Buy-Side / Corporate Finance (m/w/d)](https://www.arbeitnow.com/jobs/companies/sancovia-gruppe/trainee-ma-buy-side-corporate-finance-ravensburg-302485)** en Sancovia Gruppe _(2026-05-14)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-72087)** en Lionflence _(2026-05-13)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-96174)** en Lionflence _(2026-05-13)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-406902)** en Lionflence _(2026-05-13)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-119175)** en Lionflence _(2026-05-13)_ - Arbeitnow
 - **[Customer Service Representative Hotel Reservations Entry Level](https://remoteOK.com/remote-jobs/remote-customer-service-representative-hotel-reservations-entry-level-aisles-amp-abroad-1131496)** en Aisles &amp; Abroad _(2026-05-07)_ - RemoteOK
 
 <!-- JOBS_END -->
