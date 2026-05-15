@@ -20,72 +20,43 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| AI Engineer (2) | Ruby (1) |
-| Business Analyst Junior (2) | Data engineer (1) |
-| Analista de Seguridad de la Información Junior (2) | Data (1) |
-| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Machine learning (1) |
-| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Qa (1) |
+| Senior Software Engineer (Java/SpringBoot) (m/f/x) (2) | Java (4) |
+| Senior Java Backend Engineer (m/f/x) (2) | Spring (2) |
+| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Backend (2) |
+| Junior Artist Manager / Influencer Manager (m/w/d) (2) | - |
+| Senior Software Developer (gn) (1) | - |
 
 ### Frontend
 
-- **[Ingeniero Junior](https://www.getonbrd.com/jobs/ingeniero-junior-khipu-remote-e6b1)** en GetOnBoard Company _(2026-04-08)_ - GetOnBoard
-- **[AI Engineer](https://www.getonbrd.com/jobs/senior-ai-engineer-mas-analytics-puerto-montt-santiago-puerto-varas)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
-- **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
+- **[Senior Software Developer (gn)](https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/senior-software-developer-gn-berlin-348049)** en Bikeleasing-Service GmbH & Co. KG _(2026-05-15)_ - Arbeitnow
+- **[Senior Software Engineer (Java/SpringBoot) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-software-engineer-java-springboot-berlin-296260)** en Atolls _(2026-05-14)_ - Arbeitnow
+- **[Senior Java Backend Engineer (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-java-backend-engineer-berlin-86502)** en Atolls _(2026-05-14)_ - Arbeitnow
+- **[Senior Java Backend Engineer (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-java-backend-engineer-munich-153126)** en Atolls _(2026-05-14)_ - Arbeitnow
+- **[Senior Software Engineer (Java/SpringBoot) (m/f/x)](https://www.arbeitnow.com/jobs/companies/atolls/senior-software-engineer-java-springboot-munich-342606)** en Atolls _(2026-05-14)_ - Arbeitnow
 - **[Lead Software Engineer](https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529)** en CSC Generation _(2026-05-09)_ - RemoteOK
 
 ### Backend
 
-- **[Ejecutivo de Onboarding Junior](https://www.getonbrd.com/jobs/ejecutivo-de-onboarding-trainee-agendapro-santiago-daf4)** en GetOnBoard Company _(2026-05-08)_ - GetOnBoard
-- **[Ingeniero de Datos](https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote)** en GetOnBoard Company _(2026-05-07)_ - GetOnBoard
-- **[Analista de Proyectos TI y Automatización](https://www.getonbrd.com/jobs/analista-de-proyectos-ti-y-automatizacion-tcit-santiago-e09d)** en GetOnBoard Company _(2026-05-06)_ - GetOnBoard
-- **[UX Junior](https://www.getonbrd.com/jobs/ux-junior-tcit-santiago-ac7c)** en GetOnBoard Company _(2026-04-24)_ - GetOnBoard
-- **[Business Analyst Junior](https://www.getonbrd.com/jobs/business-analyst-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2026-04-22)_ - GetOnBoard
-- **[Ingeniero Junior en Inteligencia Artificial](https://www.getonbrd.com/jobs/ingeniero-junior-en-inteligencia-artificial-bice-vida-santiago)** en GetOnBoard Company _(2026-04-21)_ - GetOnBoard
-- **[Data Engineer Senior](https://www.getonbrd.com/jobs/data-engineer-senior-grupo-mariposa-remote-ba30)** en GetOnBoard Company _(2026-04-15)_ - GetOnBoard
-- **[Product Owner Junior](https://www.getonbrd.com/jobs/product-owner-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2026-04-15)_ - GetOnBoard
-- **[Ingeniero/a de Machine Learning Junior](https://www.getonbrd.com/jobs/ingeniero-a-de-machine-learning-suncast-remote)** en GetOnBoard Company _(2026-03-19)_ - GetOnBoard
-- **[Analista de Analítica Digital](https://www.getonbrd.com/jobs/analista-de-analitica-digital-bc-tecnologia-santiago)** en GetOnBoard Company _(2026-03-05)_ - GetOnBoard
-- **[Digital Quality Lead](https://www.getonbrd.com/jobs/digital-quality-lead-signant-health-remote)** en GetOnBoard Company _(2026-03-03)_ - GetOnBoard
-- **[SRE / DevOps Engineer Junior](https://www.getonbrd.com/jobs/sre-devops-engineer-junior-bc-tecnologia-remote)** en GetOnBoard Company _(2026-02-24)_ - GetOnBoard
-- **[Asesor de Contactabilidad Junior](https://www.getonbrd.com/jobs/asesor-educativo-comercial-junior-colectivo23-lima)** en GetOnBoard Company _(2026-02-02)_ - GetOnBoard
-- **[Jr Sales Executive](https://www.getonbrd.com/jobs/jr-sales-executive-coderslab-io-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-21)_ - GetOnBoard
-- **[Ingeniero(a) Junior de Software y Robótica](https://www.getonbrd.com/jobs/ingeniero-a-junior-de-software-y-robotica-maquintel-robotic-services-santiago)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
-- **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago-bb38)** en GetOnBoard Company _(2026-01-16)_ - GetOnBoard
-- **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-05-08)_ - Remotive
 - **[AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958)** en Dry Ground AI _(2026-04-21)_ - Remotive
 - **[Senior Medical Editor](https://remoteOK.com/remote-jobs/remote-senior-medical-editor-omnicom-health-1131571)** en Omnicom Health _(2026-05-13)_ - RemoteOK
 - **[Manager Collections &amp; Recoveries](https://remoteOK.com/remote-jobs/remote-manager-collections-amp-recoveries-forbright-bank-1131526)** en Forbright Bank _(2026-05-09)_ - RemoteOK
-- **[UI Developer](https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1131473)** en RainFocus _(2026-05-05)_ - RemoteOK
-
-### Mobile
-
-- **[DevOps Junior (Latam )](https://www.getonbrd.com/jobs/devops-jr-remoto-latam-i2b-technologies-remote)** en GetOnBoard Company _(2026-04-28)_ - GetOnBoard
 
 ### Data
 
-- **[SAP Fico Functional Consultant](https://www.getonbrd.com/jobs/sap-fico-functional-consultant-crest-it-resources-llc-remote)** en GetOnBoard Company _(2026-04-29)_ - GetOnBoard
-- **[Soporte Operativo Junior](https://www.getonbrd.com/jobs/soporte-operativo-junior-bc-tecnologia-remote)** en GetOnBoard Company _(2026-03-31)_ - GetOnBoard
-- **[Business Analyst Junior](https://www.getonbrd.com/jobs/business-analyst-junior-apside-santiago)** en GetOnBoard Company _(2026-02-05)_ - GetOnBoard
 - **[Online Hospitality Services Coordinator Entry Level](https://remoteOK.com/remote-jobs/remote-online-hospitality-services-coordinator-entry-level-aisles-amp-abroad-1131534)** en Aisles &amp; Abroad _(2026-05-10)_ - RemoteOK
-
-### QA
-
-- **[Developer QA – Junior](https://www.getonbrd.com/jobs/developer-qa-junior-ameris-capital-santiago)** en GetOnBoard Company _(2026-04-07)_ - GetOnBoard
 
 ### Other
 
-- **[Ejecutivo en Generación de Demanda (Junior)](https://www.getonbrd.com/jobs/ejecutivo-en-generacion-de-demanda-dynamic-devs-santiago-acbd)** en GetOnBoard Company _(2026-04-29)_ - GetOnBoard
-- **[Auxiliar de Operaciones Jr](https://www.getonbrd.com/jobs/auxiliar-de-operaciones-jr-coderslab-io-lima)** en GetOnBoard Company _(2026-04-17)_ - GetOnBoard
-- **[Junior Network Engineer (Presencial)](https://www.getonbrd.com/jobs/networking-presencial-bc-tecnologia-santiago)** en GetOnBoard Company _(2026-04-02)_ - GetOnBoard
-- **[Ejecutiva de Cuenta Marketing Junior](https://www.getonbrd.com/jobs/ejecutiva-de-cuenta-match-agencia-consultora-remote)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
-- **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
-- **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
-- **[Trainee M&A Buy-Side / Corporate Finance (m/w/d)](https://www.arbeitnow.com/jobs/companies/sancovia-gruppe/trainee-ma-buy-side-corporate-finance-ravensburg-302485)** en Sancovia Gruppe _(2026-05-14)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-72087)** en Lionflence _(2026-05-13)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-96174)** en Lionflence _(2026-05-13)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-406902)** en Lionflence _(2026-05-13)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-119175)** en Lionflence _(2026-05-13)_ - Arbeitnow
+- **[Projektassistenz / Junior Projektmanager im Bereich Grafik & Kreation - Teilzeit (m|w|d)](https://www.arbeitnow.com/jobs/companies/wiethe-content-gmbh/projektassistenz-junior-projektmanager-im-bereich-grafik-kreation-teilzeit-mwd-georgsmarienhutte-257522)** en Wiethe Content GmbH _(2026-05-15)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-248860)** en Lionflence _(2026-05-15)_ - Arbeitnow
+- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-290300)** en Lionflence _(2026-05-15)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-444148)** en Lionflence _(2026-05-15)_ - Arbeitnow
+- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-370187)** en Lionflence _(2026-05-15)_ - Arbeitnow
+- **[Teamleitung Buchhaltung | Start Up](https://www.arbeitnow.com/jobs/companies/matera-gmbh/teamleitung-buchhaltung-start-up-berlin-1897)** en Matera GmbH _(2026-05-15)_ - Arbeitnow
+- **[Junior PR Manager (m/w/d) – Remote oder Berlin](https://www.arbeitnow.com/jobs/companies/getpress/junior-pr-manager-remote-oder-berlin-19063)** en getpress _(2026-05-15)_ - Arbeitnow
+- **[Junior Performance Marketing Manager in Teilzeit (m/w/d)](https://www.arbeitnow.com/jobs/companies/hey-marly-gmbh/junior-performance-marketing-manager-in-teilzeit-cologne-245097)** en Hey Marly GmbH _(2026-05-15)_ - Arbeitnow
+- **[Senior IT-Techniker/-in (m/w/d) in Hannover](https://www.arbeitnow.com/jobs/companies/support-4-it-gmbh/senior-it-techniker-in-in-hannover-hanover-224795)** en Support-4-IT GmbH _(2026-05-14)_ - Arbeitnow
 - **[Customer Service Representative Hotel Reservations Entry Level](https://remoteOK.com/remote-jobs/remote-customer-service-representative-hotel-reservations-entry-level-aisles-amp-abroad-1131496)** en Aisles &amp; Abroad _(2026-05-07)_ - RemoteOK
 
 <!-- JOBS_END -->
