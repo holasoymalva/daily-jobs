@@ -23,8 +23,8 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 | AI Engineer (2) | Front-end (1) |
 | Analista de Seguridad de la Información Junior (2) | Ruby (1) |
 | Junior Front-end Engineer (1) | Python (1) |
-| Ingeniero Junior (1) | Data (1) |
-| Ruby on Rails Developer (Junior / Semi Senior) (1) | Data engineer (1) |
+| Ingeniero Junior (1) | Data engineer (1) |
+| Ruby on Rails Developer (Junior / Semi Senior) (1) | Data (1) |
 
 ### Frontend
 
@@ -32,6 +32,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ingeniero Junior](https://www.getonbrd.com/jobs/ingeniero-junior-khipu-remote-e6b1)** en GetOnBoard Company _(2026-04-08)_ - GetOnBoard
 - **[AI Engineer](https://www.getonbrd.com/jobs/senior-ai-engineer-mas-analytics-puerto-montt-santiago-puerto-varas)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
 - **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
+- **[Fullstack-Entwickler (m/w/d) mit KI-Affinität in Vollzeit](https://www.arbeitnow.com/jobs/companies/kopp-verlag-ek/fullstack-entwickler-mit-ki-affinitat-in-vollzeit-rottenburg-305442)** en Kopp Verlag e.K. _(2026-05-16)_ - Arbeitnow
 - **[Lead Software Engineer](https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529)** en CSC Generation _(2026-05-09)_ - RemoteOK
 
 ### Backend
@@ -55,8 +56,8 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-05-08)_ - Remotive
 - **[AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958)** en Dry Ground AI _(2026-04-21)_ - Remotive
-- **[Junior Research Consultant (m/w/d)](https://www.arbeitnow.com/jobs/companies/mindline-gmbh/junior-research-consultant-hamburg-102896)** en mindline GmbH _(2026-05-15)_ - Arbeitnow
-- **[(Junior) Chief of Staff (w/m/d)](https://www.arbeitnow.com/jobs/companies/everphone-gmbh/junior-chief-of-staff-berlin-82165)** en everphone GmbH _(2026-05-15)_ - Arbeitnow
+- **[Senior NetSuite Solution Architect (w/m/d)](https://www.arbeitnow.com/jobs/companies/verve/senior-netsuite-solution-architect-frankfurt-am-main-27856)** en Verve _(2026-05-17)_ - Arbeitnow
+- **[Sr Solution Architect Consultant Sales Engineer](https://remoteOK.com/remote-jobs/remote-sr-solution-architect-consultant-sales-engineer-cyara-1131610)** en Cyara _(2026-05-16)_ - RemoteOK
 - **[Sales Development Representative Inbound](https://remoteOK.com/remote-jobs/remote-sales-development-representative-inbound-yuno-1131605)** en Yuno _(2026-05-15)_ - RemoteOK
 - **[Senior Medical Editor](https://remoteOK.com/remote-jobs/remote-senior-medical-editor-omnicom-health-1131571)** en Omnicom Health _(2026-05-13)_ - RemoteOK
 - **[Manager Collections &amp; Recoveries](https://remoteOK.com/remote-jobs/remote-manager-collections-amp-recoveries-forbright-bank-1131526)** en Forbright Bank _(2026-05-09)_ - RemoteOK
@@ -86,7 +87,6 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Account Manager Influencer Marketing TikTok, YouTube & Instagram (all genders)](https://www.arbeitnow.com/jobs/companies/ykone-gmbh/account-manager-influencer-marketing-tiktok-youtube-instagram-all-genders-munich-198377)** en Ykone GmbH _(2026-05-15)_ - Arbeitnow
 - **[Werkstudent Vertrieb / Finanzberatung (m/w/d) – Praxis statt Theorie](https://www.arbeitnow.com/jobs/companies/shereen-patzelt/werkstudent-vertrieb-finanzberatung-praxis-statt-theorie-chemnitz-159677)** en Shereen Patzelt _(2026-05-15)_ - Arbeitnow
 - **[(Junior) HR Manager (m/w/d) - Schwerpunkt Recruiting](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/junior-hr-manager-schwerpunkt-recruiting-munich-145452)** en MY Humancapital GmbH _(2026-05-15)_ - Arbeitnow
-- **[Junior Performance Marketing Manager SEA (m/w/d) Online Marketing](https://www.arbeitnow.com/jobs/companies/nayoki-performance-gmbh/junior-performance-marketing-manager-sea-online-marketing-munich-317685)** en Nayoki Performance GmbH _(2026-05-15)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
