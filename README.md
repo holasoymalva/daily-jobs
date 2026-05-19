@@ -20,22 +20,24 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 | 🏆 Vacantes más Demandadas | 💻 Tecnologías más Demandadas |
 |:---|:---|
-| AI Engineer (2) | Front-end (1) |
-| Ejecutivo de Onboarding Junior (2) | Ruby (1) |
+| AI Engineer (2) | Data engineer (2) |
+| AI Engineer (m/w/d) (2) | Data (2) |
+| Ejecutivo de Onboarding Junior (2) | Front-end (1) |
 | Analista de Seguridad de la Información Junior (2) | Python (1) |
-| Junior Artist Manager / Influencer Manager (m/w/d) (2) | Data engineer (1) |
-| Trainee Artist Manager / Influencer Manager (m/w/d) (2) | Data (1) |
+| Junior Front-end Engineer (1) | Machine learning (1) |
 
 ### Frontend
 
 - **[Junior Front-end Engineer](https://www.getonbrd.com/jobs/junior-frontend-engineer-krunchbox-santiago)** en GetOnBoard Company _(2026-04-22)_ - GetOnBoard
 - **[Ingeniero Junior](https://www.getonbrd.com/jobs/ingeniero-junior-khipu-remote-e6b1)** en GetOnBoard Company _(2026-04-08)_ - GetOnBoard
 - **[AI Engineer](https://www.getonbrd.com/jobs/senior-ai-engineer-mas-analytics-puerto-montt-santiago-puerto-varas)** en GetOnBoard Company _(2026-03-09)_ - GetOnBoard
-- **[Ruby on Rails Developer (Junior / Semi Senior)](https://www.getonbrd.com/jobs/semi-senior-ruby-on-rails-developer-saas-subscriptions-riolab-santiago)** en GetOnBoard Company _(2026-02-17)_ - GetOnBoard
+- **[AI Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/gocomo-gmbh/ai-engineer-berlin-437124)** en gocomo GmbH _(2026-05-19)_ - Arbeitnow
+- **[AI Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/gocomo-gmbh/ai-engineer-berlin-110999)** en gocomo GmbH _(2026-05-19)_ - Arbeitnow
 - **[Lead Software Engineer](https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529)** en CSC Generation _(2026-05-09)_ - RemoteOK
 
 ### Backend
 
+- **[Pre Sales BI Engineer](https://www.getonbrd.com/jobs/solution-engineer-egos-bi-monterrey)** en GetOnBoard Company _(2026-05-18)_ - GetOnBoard
 - **[Ejecutivo de Onboarding Junior](https://www.getonbrd.com/jobs/ejecutivo-de-onboarding-trainee-agendapro-santiago-daf4)** en GetOnBoard Company _(2026-05-08)_ - GetOnBoard
 - **[Ingeniero de Datos](https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote)** en GetOnBoard Company _(2026-05-07)_ - GetOnBoard
 - **[Ejecutivo de Onboarding Junior](https://www.getonbrd.com/jobs/ejecutivo-de-onboarding-junior-agendapro-buenos-aires)** en GetOnBoard Company _(2026-05-18)_ - GetOnBoard
@@ -56,7 +58,7 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Analista de Seguridad de la Información Junior](https://www.getonbrd.com/jobs/analista-de-seguridad-de-la-informacion-junior-bc-tecnologia-santiago)** en GetOnBoard Company _(2025-12-22)_ - GetOnBoard
 - **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540)** en Credit Wellness, LLC _(2026-05-08)_ - Remotive
 - **[AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958)** en Dry Ground AI _(2026-04-21)_ - Remotive
-- **[Junior Consultant Datenschutz / Compliance (m/w/d)](https://www.arbeitnow.com/jobs/companies/2b-advice-gmbh/junior-consultant-datenschutz-compliance-bonn-366186)** en 2B Advice GmbH _(2026-05-18)_ - Arbeitnow
+- **[Structured Finance Manager (m/f/d)](https://www.arbeitnow.com/jobs/companies/credibur/structured-finance-manager-berlin-421974)** en Credibur _(2026-05-19)_ - Arbeitnow
 - **[Sr Solution Architect Consultant Sales Engineer](https://remoteOK.com/remote-jobs/remote-sr-solution-architect-consultant-sales-engineer-cyara-1131610)** en Cyara _(2026-05-16)_ - RemoteOK
 - **[Sales Development Representative Inbound](https://remoteOK.com/remote-jobs/remote-sales-development-representative-inbound-yuno-1131605)** en Yuno _(2026-05-15)_ - RemoteOK
 - **[Senior Medical Editor](https://remoteOK.com/remote-jobs/remote-senior-medical-editor-omnicom-health-1131571)** en Omnicom Health _(2026-05-13)_ - RemoteOK
@@ -68,12 +70,15 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 
 ### Data
 
+- **[Data Engineer & Data Analytics Engineer (Trainee)](https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey)** en GetOnBoard Company _(2026-05-18)_ - GetOnBoard
 - **[Soporte Operativo Junior](https://www.getonbrd.com/jobs/soporte-operativo-junior-bc-tecnologia-remote)** en GetOnBoard Company _(2026-03-31)_ - GetOnBoard
+- **[Business Intelligence Specialist (m/w/d)](https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/business-intelligence-specialist-munich-318174)** en Ecoturn GmbH _(2026-05-19)_ - Arbeitnow
 - **[Online Hospitality Services Coordinator Entry Level](https://remoteOK.com/remote-jobs/remote-online-hospitality-services-coordinator-entry-level-aisles-amp-abroad-1131534)** en Aisles &amp; Abroad _(2026-05-10)_ - RemoteOK
 
 ### QA
 
 - **[Developer QA – Junior](https://www.getonbrd.com/jobs/developer-qa-junior-ameris-capital-santiago)** en GetOnBoard Company _(2026-04-07)_ - GetOnBoard
+- **[Senior / Team Lead CRM Manager (m/w/d) mit Perspektive Head of CRM](https://www.arbeitnow.com/jobs/companies/bedrop/senior-team-lead-crm-manager-mit-perspektive-head-of-crm-mannheim-32197)** en bedrop _(2026-05-19)_ - Arbeitnow
 
 ### Other
 
@@ -84,16 +89,10 @@ Este repositorio es un **bot automatizado** construido con Python y GitHub Actio
 - **[Ejecutiva de Cuenta Marketing Junior](https://www.getonbrd.com/jobs/ejecutiva-de-cuenta-match-agencia-consultora-remote)** en GetOnBoard Company _(2026-03-18)_ - GetOnBoard
 - **[Customer Success Executive Junior Técnico B2B/ IoT](https://www.getonbrd.com/jobs/customer-success-executive-junior-tecnico-b2b-iot-guinea-mobile-sac-cuy-movil-lima)** en GetOnBoard Company _(2026-02-10)_ - GetOnBoard
 - **[Ejecutivo de Soporte Trainee](https://www.getonbrd.com/jobs/ejecutivo-de-soporte-trainee-agendapro-ciudad-de-mexico)** en GetOnBoard Company _(2026-01-19)_ - GetOnBoard
-- **[Vertriebsassistent (m/w/d) - Trainee | 6 Std./Tag | Vor Ort | Stuttgart-Vaihingen](https://www.arbeitnow.com/jobs/companies/levent-akalin/vertriebsassistent-trainee-6-std-tag-vor-ort-stuttgart-vaihingen-39547)** en Levent Akalin _(2026-05-18)_ - Arbeitnow
-- **[Junior Content Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/finment-gmbh/junior-content-manager-berlin-339172)** en FinMent GmbH _(2026-05-18)_ - Arbeitnow
-- **[Junior Online Marketing (m/w/d)](https://www.arbeitnow.com/jobs/companies/finment-gmbh/junior-online-marketing-berlin-212227)** en FinMent GmbH _(2026-05-18)_ - Arbeitnow
-- **[Content Marketing Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/finment-gmbh/content-marketing-manager-berlin-85271)** en FinMent GmbH _(2026-05-18)_ - Arbeitnow
-- **[Online Marketing (m/w/d)](https://www.arbeitnow.com/jobs/companies/finment-gmbh/online-marketing-berlin-348967)** en FinMent GmbH _(2026-05-18)_ - Arbeitnow
-- **[Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)](https://www.arbeitnow.com/jobs/companies/kevin-kehr/werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-89584)** en Kevin Kehr _(2026-05-18)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-265951)** en Lionflence _(2026-05-18)_ - Arbeitnow
-- **[Junior Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-101428)** en Lionflence _(2026-05-18)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-333839)** en Lionflence _(2026-05-18)_ - Arbeitnow
-- **[Trainee Artist Manager / Influencer Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-250545)** en Lionflence _(2026-05-18)_ - Arbeitnow
+- **[Trainee (m/w/d) Financial Consulting: Entrepreneurship und IHK-Qualifikation](https://www.arbeitnow.com/jobs/companies/horbach-berlin/trainee-financial-consulting-entrepreneurship-und-ihk-qualifikation-berlin-352908)** en Horbach Berlin _(2026-05-19)_ - Arbeitnow
+- **[Junior Designer / Junior Grafik-Designer (m|w|d)](https://www.arbeitnow.com/jobs/companies/wiethe-content-gmbh/junior-designer-junior-grafik-designer-mwd-georgsmarienhutte-458568)** en Wiethe Content GmbH _(2026-05-19)_ - Arbeitnow
+- **[Praktikum (m/w/d) Consulting](https://www.arbeitnow.com/jobs/companies/mlp-wirtschaftsberatung/praktikum-consulting-cologne-466154)** en MLP Wirtschaftsberatung _(2026-05-19)_ - Arbeitnow
+- **[Werkstudent Vertrieb / Finanzberatung (m/w/d) – Praxis statt Theorie](https://www.arbeitnow.com/jobs/companies/shereen-patzelt/werkstudent-vertrieb-finanzberatung-praxis-statt-theorie-chemnitz-63009)** en Shereen Patzelt _(2026-05-18)_ - Arbeitnow
 
 <!-- JOBS_END -->
 
